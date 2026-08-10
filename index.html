@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en" data-theme="paper" data-density="balanced">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A daily-updated, evidence-aware ranking of Codex-compatible graphic design and poster skills on GitHub.">
+    <meta name="color-scheme" content="light dark">
+    <title>Codex Visual Skill Radar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=IBM+Plex+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#ranking">Skip to ranking</a>
+    <div class="grain" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Codex Visual Skill Radar home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span class="brand-copy"><b>CODEX / VISUAL</b><small>SKILL RADAR</small></span>
+      </a>
+      <nav class="header-nav" aria-label="Primary navigation">
+        <a href="#ranking" data-i18n="navRanking">Ranking</a>
+        <a href="#history" data-i18n="navHistory">History</a>
+        <a href="#method" data-i18n="navMethod">Method</a>
+      </nav>
+      <div class="header-meta">
+        <span class="freshness" id="freshnessBadge"><i></i><span>Loading data</span></span>
+        <button class="text-button" id="languageToggle" type="button" aria-label="Switch language">ZH</button>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="pageTitle">
+        <div class="hero-copy">
+          <p class="kicker"><span>2026 EDITION</span><span>DAILY GITHUB SIGNAL</span></p>
+          <h1 id="pageTitle">Visual skills,<br><em>ranked with receipts.</em></h1>
+          <p class="hero-lede" data-i18n="heroLede">A living field guide to Codex-compatible skills for posters, brand systems, editorial graphics, image-first decks, and visual production.</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#ranking"><span data-i18n="seeRanking">See today's ranking</span><b aria-hidden="true">&#8595;</b></a>
+            <a class="secondary-action" href="https://learn.chatgpt.com/docs/build-skills" target="_blank" rel="noreferrer"><span data-i18n="officialFormat">Official skill format</span><b aria-hidden="true">&#8599;</b></a>
+          </div>
+        </div>
+        <div class="hero-signal" aria-label="Ranking summary">
+          <div class="signal-orbit" aria-hidden="true">
+            <span class="orbit orbit-a"></span><span class="orbit orbit-b"></span><span class="orbit orbit-c"></span>
+            <span class="signal-core">10</span>
+          </div>
+          <div class="signal-caption">
+            <span data-i18n="topTen">TOP TEN</span>
+            <strong id="heroDate">--</strong>
+            <small data-i18n="retained">Every former top-ten entry is retained.</small>
+          </div>
+        </div>
+        <dl class="hero-stats" id="heroStats">
+          <div><dt id="trackedCount">--</dt><dd data-i18n="tracked">skills tracked</dd></div>
+          <div><dt id="everCount">--</dt><dd data-i18n="everTop">ever reached top 10</dd></div>
+          <div><dt>5</dt><dd data-i18n="evidenceLanes">evidence lanes</dd></div>
+        </dl>
+      </section>
+
+      <section class="method-strip" aria-label="Ranking weights">
+        <span class="method-label" data-i18n="scoreRecipe">SCORE RECIPE</span>
+        <div class="weight"><b>30</b><span data-i18n="designFit">Design fit</span></div>
+        <div class="weight"><b>25</b><span data-i18n="codexFit">Codex fit</span></div>
+        <div class="weight"><b>20</b><span data-i18n="feedback">Public feedback</span></div>
+        <div class="weight"><b>15</b><span data-i18n="maintenance">Maintenance</span></div>
+        <div class="weight"><b>10</b><span data-i18n="docs">Docs & examples</span></div>
+        <a href="#method" data-i18n="inspectMethod">Inspect method</a>
+      </section>
+
+      <section class="ranking-shell" id="ranking" aria-labelledby="rankingTitle">
+        <div class="section-head">
+          <div>
+            <p class="section-index">01 / LIVE INDEX</p>
+            <h2 id="rankingTitle" data-i18n="rankingTitle">Today's field ranking</h2>
+          </div>
+          <p class="section-intro" data-i18n="rankingIntro">Rank is a synthesis of design usefulness, Codex compatibility, public evidence, maintenance, and documentation. Popularity never stands alone.</p>
+        </div>
+
+        <form class="search-console" id="searchForm" role="search">
+          <label class="search-field">
+            <span class="search-prefix" aria-hidden="true">/</span>
+            <span class="sr-only">Search skills</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Search style, scenario, designer, or repository..." data-i18n-placeholder="searchPlaceholder">
+            <kbd>CTRL K</kbd>
+          </label>
+          <label>
+            <span class="sr-only">Filter by format</span>
+            <select id="formatFilter">
+              <option value="all" data-i18n="allFormats">All formats</option>
+              <option value="poster" data-i18n="poster">Poster</option>
+              <option value="brand" data-i18n="brandSystem">Brand system</option>
+              <option value="presentation" data-i18n="presentation">Presentation</option>
+              <option value="technical" data-i18n="technical">Technical / academic</option>
+              <option value="pipeline" data-i18n="pipeline">Production pipeline</option>
+            </select>
+          </label>
+          <label>
+            <span class="sr-only">Sort ranking</span>
+            <select id="sortSelect">
+              <option value="rank" data-i18n="sortRank">Sort: editorial rank</option>
+              <option value="score" data-i18n="sortScore">Sort: score</option>
+              <option value="stars" data-i18n="sortStars">Sort: GitHub stars</option>
+              <option value="confidence" data-i18n="sortConfidence">Sort: evidence confidence</option>
+              <option value="recent" data-i18n="sortRecent">Sort: recent activity</option>
+            </select>
+          </label>
+          <a class="github-search" id="githubSearch" href="https://github.com/search?q=SKILL.md+codex+poster&type=repositories" target="_blank" rel="noreferrer"><span data-i18n="searchGithub">Search GitHub</span><b aria-hidden="true">&#8599;</b></a>
+        </form>
+
+        <div class="filter-row">
+          <div class="filter-pills" id="styleFilters" aria-label="Style filters"></div>
+          <div class="filter-toggles">
+            <label class="switch"><input id="topTenOnly" type="checkbox"><span></span><b data-i18n="topTenOnly">Top 10 only</b></label>
+            <label class="switch"><input id="strongEvidenceOnly" type="checkbox"><span></span><b data-i18n="strongEvidence">Stronger evidence</b></label>
+          </div>
+        </div>
+
+        <div class="result-line" aria-live="polite">
+          <span id="resultCount">--</span>
+          <button class="reset-button" id="resetFilters" type="button" data-i18n="reset">Reset filters</button>
+        </div>
+
+        <div class="ranking-list" id="rankingList" aria-live="polite"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <span>0</span>
+          <h3 data-i18n="noMatches">No matching skills</h3>
+          <p data-i18n="broadenSearch">Try a broader phrase or search GitHub with the current query.</p>
+        </div>
+      </section>
+
+      <section class="style-atlas" aria-labelledby="atlasTitle">
+        <div class="section-head compact">
+          <div><p class="section-index">02 / STYLE ATLAS</p><h2 id="atlasTitle" data-i18n="atlasTitle">Choose by visual intent</h2></div>
+          <p class="section-intro" data-i18n="atlasIntro">The highest-ranked skill is not always the right one. Start from the artifact you need to make.</p>
+        </div>
+        <div class="atlas-grid" id="atlasGrid"></div>
+      </section>
+
+      <section class="history-section" id="history" aria-labelledby="historyTitle">
+        <div class="section-head inverse">
+          <div><p class="section-index">03 / MEMORY</p><h2 id="historyTitle" data-i18n="historyTitle">The ranking remembers.</h2></div>
+          <p class="section-intro" data-i18n="historyIntro">A skill that leaves the top ten is never deleted. Daily snapshots preserve its former rank and keep the long tail visible.</p>
+        </div>
+        <div class="history-layout">
+          <div class="history-chart-wrap">
+            <div class="chart-head"><span data-i18n="rankOverTime">RANK OVER TIME</span><small id="historyRange">--</small></div>
+            <div class="history-chart" id="historyChart" role="img" aria-label="Historical ranking chart"></div>
+          </div>
+          <aside class="history-note">
+            <span class="note-number" id="archiveCount">00</span>
+            <h3 data-i18n="archiveTitle">Permanent long-tail archive</h3>
+            <p data-i18n="archiveCopy">When a newcomer enters the top ten, the displaced skill becomes number eleven or lower. It remains searchable, comparable, and linked to its original evidence.</p>
+            <div class="memory-key"><i class="current"></i><span data-i18n="currentTop">Current top 10</span><i class="archive"></i><span data-i18n="archiveRank">Archive rank</span></div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="method-section" id="method" aria-labelledby="methodTitle">
+        <div class="section-head compact">
+          <div><p class="section-index">04 / METHOD</p><h2 id="methodTitle" data-i18n="methodTitle">What the score means</h2></div>
+          <p class="section-intro" data-i18n="methodIntro">The score is editorial, reproducible, and explicit about uncertainty. It is not an objective measure of taste.</p>
+        </div>
+        <div class="method-grid">
+          <article><span>30</span><h3 data-i18n="designFit">Design fit</h3><p data-i18n="designDesc">How directly the skill supports poster, brand, editorial, advertising, or adjacent visual-design work.</p></article>
+          <article><span>25</span><h3 data-i18n="codexFit">Codex fit</h3><p data-i18n="codexDesc">Native tool usage, valid SKILL.md structure, install clarity, and Desktop compatibility.</p></article>
+          <article><span>20</span><h3 data-i18n="feedback">Public feedback</h3><p data-i18n="feedbackDesc">Independent reviews, community cases, registry installs, and scoped adoption signals.</p></article>
+          <article><span>15</span><h3 data-i18n="maintenance">Maintenance</h3><p data-i18n="maintenanceDesc">Recency of repository activity. Archived or stale projects decay gradually rather than disappearing.</p></article>
+          <article><span>10</span><h3 data-i18n="docs">Docs & examples</h3><p data-i18n="docsDesc">Installation steps, prompt recipes, real output examples, constraints, and quality gates.</p></article>
+        </div>
+        <div class="caveat-band">
+          <strong data-i18n="importantCaveat">IMPORTANT CAVEAT</strong>
+          <p data-i18n="caveatCopy">Stars and forks are adoption proxies, not satisfaction scores. Host repositories containing many skills receive a scope discount so their total popularity cannot overwhelm a focused standalone skill.</p>
+          <a href="./data/candidates.json" target="_blank" data-i18n="rawData">Open raw research data</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div><b>CODEX / VISUAL SKILL RADAR</b><span data-i18n="footerLine">Curated research, refreshed by GitHub Actions.</span></div>
+      <div class="footer-links"><a href="./README.md">README</a><a href="./data/history.json">HISTORY.JSON</a><a href="https://github.com/search?q=SKILL.md+codex+poster&type=repositories" target="_blank" rel="noreferrer">GITHUB SEARCH</a></div>
+    </footer>
+
+    <div class="drawer-layer" id="drawerLayer" hidden>
+      <button class="drawer-backdrop" id="drawerBackdrop" type="button" aria-label="Close details"></button>
+      <aside class="detail-drawer" id="detailDrawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle" tabindex="-1">
+        <div class="drawer-top"><span id="drawerRank">#--</span><button id="closeDrawer" type="button" aria-label="Close details">CLOSE&nbsp;&nbsp;X</button></div>
+        <div id="drawerContent"></div>
+      </aside>
+    </div>
+
+    <button class="tweaks-trigger" id="tweaksTrigger" type="button" aria-expanded="false" aria-controls="tweaksPanel">TWEAKS</button>
+    <aside class="tweaks-panel" id="tweaksPanel" hidden>
+      <div><b>Tweaks</b><button id="closeTweaks" type="button" aria-label="Close tweaks">X</button></div>
+      <label>Theme<select id="themeSelect"><option value="paper">Paper</option><option value="night">Night</option></select></label>
+      <label>Density<select id="densitySelect"><option value="balanced">Balanced</option><option value="compact">Compact</option></select></label>
+    </aside>
+
+    <noscript><div class="noscript">This interactive ranking requires JavaScript. The raw data remains available in <a href="./data/rankings.json">data/rankings.json</a>.</div></noscript>
+    <script src="./data/rankings.js"></script>
+    <script src="./data/history.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1014 @@
+{
+  "schema_version": 1,
+  "methodology": {
+    "weights": {
+      "design_fit": 0.3,
+      "codex_fit": 0.25,
+      "public_feedback": 0.2,
+      "maintenance": 0.15,
+      "docs_examples": 0.1
+    },
+    "note": "Stars and forks are adoption proxies, not user satisfaction. Multi-skill host repositories receive a scope discount."
+  },
+  "candidates": [
+    {
+      "id": "gc-minimal-zine-poster",
+      "name": "GC Minimal Zine Poster",
+      "repo": "LiamGvchi/gc-minimal-zine-poster",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+      "focus": "Minimal editorial poster",
+      "style": [
+        "Japanese/Korean indie zine",
+        "aged paper",
+        "risograph",
+        "negative space"
+      ],
+      "designer": "Editorial designers, cultural creators, and independent publishers",
+      "summary": "Turns a theme, sentence, article, or photo into a vertical 3:5 paper poster built around one small visual anchor and one saturated ink color.",
+      "scenarios": [
+        "Bookstore and exhibition posters",
+        "Podcast or article covers",
+        "Vertical social artwork",
+        "Poetic personal work"
+      ],
+      "tips": [
+        "Start with one proposition rather than a full article",
+        "Name one accent color and paper mood",
+        "Check whether the color anchor survives at thumbnail size"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster#examples"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "A single-skill repository gained strong stars and forks quickly; OSSInsight provides a second, auditable activity view.",
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+          "strength": 4
+        },
+        {
+          "type": "analytics",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://ossinsight.io/analyze/LiamGvchi/gc-minimal-zine-poster",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Native Codex workflow using built-in imagegen",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 5136,
+        "forks": 213,
+        "open_issues": 2,
+        "pushed_at": "2026-08-09T10:28:56Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 98,
+        "codex_fit": 98,
+        "evidence_quality": 78,
+        "docs_examples": 94
+      }
+    },
+    {
+      "id": "brandkit",
+      "name": "Brandkit",
+      "repo": "Leonxlnx/taste-skill",
+      "skill_path": "skills/brandkit/SKILL.md",
+      "download_url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit",
+      "focus": "Brand identity system boards",
+      "style": [
+        "premium minimal",
+        "cinematic",
+        "luxury",
+        "dark tech",
+        "cultural identity"
+      ],
+      "designer": "Brand designers, creative directors, and independent studios",
+      "summary": "Creates brand-guideline boards, logo directions, palette and type systems, packaging, and identity applications as one visual world.",
+      "scenarios": [
+        "Brand pitches",
+        "Logo direction studies",
+        "Identity boards",
+        "Concept launches"
+      ],
+      "tips": [
+        "Define the brand tension and symbolic idea first",
+        "Explore one logo logic per round",
+        "Test the system across physical and digital applications"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/brandkit/SKILL.md"
+        },
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Leonxlnx/taste-skill#image-generation-skills"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "A third-party production-readiness review scores the host project well for reliability and standards while flagging privacy documentation; repository adoption covers the whole suite.",
+          "url": "https://legit.show/s/gh-leonxlnx-taste-skill",
+          "strength": 4
+        },
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Portable SKILL.md; works with Codex image generation",
+      "metric_scope": "multi-skill",
+      "scope_factor": 0.55,
+      "metrics": {
+        "stars": 74702,
+        "forks": 5117,
+        "open_issues": 53,
+        "pushed_at": "2026-07-23T16:01:24Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 96,
+        "codex_fit": 91,
+        "evidence_quality": 86,
+        "docs_examples": 92
+      }
+    },
+    {
+      "id": "garden-gpt-image-2",
+      "name": "GPT Image 2 - Garden Skills",
+      "repo": "ConardLi/garden-skills",
+      "skill_path": "skills/gpt-image-2/SKILL.md",
+      "download_url": "https://github.com/ConardLi/garden-skills/tree/main/skills/gpt-image-2",
+      "focus": "Broad visual prompt engineering",
+      "style": [
+        "poster",
+        "UI",
+        "product visual",
+        "infographic",
+        "technical figure",
+        "comic"
+      ],
+      "designer": "Multidisciplinary visual and product designers",
+      "summary": "A large structured prompt system spanning posters, brand boards, product imagery, academic figures, diagrams, comics, and storyboards.",
+      "scenarios": [
+        "Campaign posters",
+        "Infographics",
+        "Product advertising",
+        "Technical diagrams",
+        "Social assets"
+      ],
+      "tips": [
+        "Choose the template family before styling",
+        "List exact copy as verbatim text",
+        "Repeat edit invariants on every iteration"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/ConardLi/garden-skills#gpt-image-2"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "registry",
+          "label": "Public evidence",
+          "summary": "skills.sh reports thousands of installs for this sub-skill; external coverage praises the breadth but recommends reviewing permissions and data flows.",
+          "url": "https://www.skills.sh/conardli/garden-skills",
+          "strength": 4
+        },
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://dev.co/ai/rag/garden-skills",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Repository explicitly reports Codex testing",
+      "metric_scope": "multi-skill",
+      "scope_factor": 0.65,
+      "metrics": {
+        "stars": 4617,
+        "forks": 410,
+        "open_issues": 18,
+        "pushed_at": "2026-07-28T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 94,
+        "codex_fit": 96,
+        "evidence_quality": 84,
+        "docs_examples": 95
+      }
+    },
+    {
+      "id": "codex-imagegen",
+      "name": "Imagegen - Codex Official",
+      "repo": "openai/codex",
+      "skill_path": "codex-rs/skills/src/assets/samples/imagegen/SKILL.md",
+      "download_url": "https://github.com/openai/codex/tree/main/codex-rs/skills/src/assets/samples/imagegen",
+      "focus": "Native image generation and editing",
+      "style": [
+        "general",
+        "advertising",
+        "brand",
+        "illustration",
+        "product",
+        "diagram"
+      ],
+      "designer": "Codex users who need the most reliable native path",
+      "summary": "Official built-in workflow for image generation, editing, variants, background extraction, and moving selected assets into a project.",
+      "scenarios": [
+        "Poster imagery",
+        "Product key art",
+        "Logo exploration",
+        "Image editing",
+        "Transparent assets"
+      ],
+      "tips": [
+        "Separate purpose, composition, copy, and constraints",
+        "Generate complex poster imagery without text first",
+        "Lock every invariant during edits"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/openai/codex/blob/main/codex-rs/skills/src/assets/samples/imagegen/SKILL.md"
+        },
+        {
+          "label": "View examples and documentation",
+          "url": "https://learn.chatgpt.com/docs/build-skills"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "official",
+          "label": "Public evidence",
+          "summary": "Official maintenance gives it the strongest compatibility. A user issue documents that system-skill visibility in Desktop may change across builds.",
+          "url": "https://github.com/openai/codex",
+          "strength": 5
+        },
+        {
+          "type": "issue",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://github.com/openai/codex/issues/20629",
+          "strength": 4
+        }
+      ],
+      "compatibility": "Built into Codex; usually no installation required",
+      "metric_scope": "host-product",
+      "scope_factor": 0.18,
+      "metrics": {
+        "stars": 105008,
+        "forks": 15897,
+        "open_issues": 12109,
+        "pushed_at": "2026-08-10T04:31:07Z",
+        "license": "Apache-2.0"
+      },
+      "manual": {
+        "design_fit": 84,
+        "codex_fit": 100,
+        "evidence_quality": 92,
+        "docs_examples": 91
+      }
+    },
+    {
+      "id": "codex-ppt",
+      "name": "Codex PPT Skill",
+      "repo": "ningzimu/codex-ppt-skill",
+      "skill_path": "skills/codex-ppt/SKILL.md",
+      "download_url": "https://github.com/ningzimu/codex-ppt-skill",
+      "focus": "Image-first presentation design",
+      "style": [
+        "technical talk",
+        "scientific defense",
+        "e-ink editorial",
+        "hand-drawn explainer",
+        "business report"
+      ],
+      "designer": "Presentation designers, researchers, and technical advocates",
+      "summary": "Generates each slide as a finished image and assembles the images into PPTX. Visually rich, but slide elements are not natively editable.",
+      "scenarios": [
+        "Launch screens",
+        "Technical talks",
+        "Thesis defense",
+        "Visual narrative pitches"
+      ],
+      "tips": [
+        "Approve outline and one sample before the batch",
+        "Use native layout for small type and dense tables",
+        "Regenerate only the slide that failed"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/ningzimu/codex-ppt-skill/blob/main/README_en.md#output-example"
+        },
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/ningzimu/codex-ppt-skill/releases"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "Independent reviews praise the image-forward results and consistently flag editability, generation cost, and small-text legibility as trade-offs.",
+          "url": "https://open-design.ai/blog/codex-ppt-skill/",
+          "strength": 5
+        },
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://dudarik.com/en/blog/codex-ppt-skill/",
+          "strength": 4
+        },
+        {
+          "type": "showcase",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://github.com/ningzimu/codex-ppt-skill/issues",
+          "strength": 4
+        }
+      ],
+      "compatibility": "Designed for Codex with built-in image generation preferred",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 4160,
+        "forks": 310,
+        "open_issues": 1,
+        "pushed_at": "2026-07-23T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 87,
+        "codex_fit": 98,
+        "evidence_quality": 94,
+        "docs_examples": 98
+      }
+    },
+    {
+      "id": "html-anything-magazine-poster",
+      "name": "Magazine Poster - HTML Anything",
+      "repo": "nexu-io/html-anything",
+      "skill_path": "magazine-poster template",
+      "download_url": "https://github.com/nexu-io/html-anything",
+      "focus": "Editable HTML poster exported to PNG",
+      "style": [
+        "Sunday newspaper",
+        "oversized serif",
+        "two column",
+        "halftone paper"
+      ],
+      "designer": "Editorial designers and content teams needing controllable type",
+      "summary": "Creates a newspaper-like HTML/CSS poster that previews in-browser and exports at high resolution. Typography is more controllable than in a generated bitmap.",
+      "scenarios": [
+        "Magazine feature posters",
+        "Article summary graphics",
+        "Event programs",
+        "Social cards"
+      ],
+      "tips": [
+        "Organize content into six or fewer numbered sections",
+        "Test with real copy lengths",
+        "Verify CJK fonts and 2x export before publishing"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/nexu-io/html-anything#showcase"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "showcase",
+          "label": "Public evidence",
+          "summary": "Featured templates include executable example.html files and the application has end-to-end tests; feedback is mainly for the full editor rather than one template.",
+          "url": "https://github.com/nexu-io/html-anything",
+          "strength": 4
+        },
+        {
+          "type": "engineering",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://github.com/nexu-io/html-anything/actions",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Can drive a local Codex CLI; not a drop-in standalone system skill",
+      "metric_scope": "multi-skill-app",
+      "scope_factor": 0.45,
+      "metrics": {
+        "stars": 8211,
+        "forks": 804,
+        "open_issues": 59,
+        "pushed_at": "2026-07-28T09:50:53Z",
+        "license": "Apache-2.0"
+      },
+      "manual": {
+        "design_fit": 93,
+        "codex_fit": 76,
+        "evidence_quality": 80,
+        "docs_examples": 97
+      }
+    },
+    {
+      "id": "wuyoscar-gpt-image2",
+      "name": "GPT Image2 Skill & Prompt Gallery",
+      "repo": "wuyoscar/GPT-Image2-Skill",
+      "skill_path": "SKILL.md / skill package",
+      "download_url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "focus": "Searchable prompt gallery and image workflow",
+      "style": [
+        "advertising",
+        "poster",
+        "research figure",
+        "product visual",
+        "prompt gallery"
+      ],
+      "designer": "Visual creators who like selecting a direction from examples",
+      "summary": "Combines a searchable prompt gallery, installable skill, and CLI, making it useful for choosing a composition from many examples.",
+      "scenarios": [
+        "Style discovery",
+        "Prompt adaptation",
+        "Commercial posters",
+        "Research illustration"
+      ],
+      "tips": [
+        "Lock a composition before replacing the subject",
+        "Do not blend several reference styles",
+        "Save successful prompts as a team recipe"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/wuyoscar/GPT-Image2-Skill"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "The repository has thousands of stars, but most public feedback concerns the prompt library rather than a single poster workflow.",
+          "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Repository identifies a Codex skill path",
+      "metric_scope": "single-suite",
+      "scope_factor": 0.85,
+      "metrics": {
+        "stars": 2600,
+        "forks": 240,
+        "open_issues": 8,
+        "pushed_at": "2026-07-15T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 88,
+        "codex_fit": 88,
+        "evidence_quality": 65,
+        "docs_examples": 94
+      }
+    },
+    {
+      "id": "fantasy-qiqiguaiguai",
+      "name": "Fantasy Qiqiguaiguai Poster",
+      "repo": "dacnay816y62-hub/fantasy-qiqiguaiguai-skill",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill",
+      "focus": "Chinese black-humor collage poster",
+      "style": [
+        "street photo",
+        "collage",
+        "black humor",
+        "Chinese typography",
+        "pet culture"
+      ],
+      "designer": "Social creators working with youth culture, pets, and travel",
+      "summary": "Transforms pet, travel, or daily-life photos into 3:4 editorial collages with terse Chinese typography and eccentric narrative tension.",
+      "scenarios": [
+        "Pet columns",
+        "Travel memory",
+        "Social posters",
+        "Street-culture content"
+      ],
+      "tips": [
+        "Use a photo with a clear silhouette",
+        "Build the joke around one contrast line",
+        "Keep Chinese copy to a short title and micro-notes"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "A new repository with early stars and forks but not yet enough independent or long-term user feedback.",
+          "url": "https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill",
+          "strength": 2
+        }
+      ],
+      "compatibility": "Codex-focused SKILL.md",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 47,
+        "forks": 4,
+        "open_issues": 0,
+        "pushed_at": "2026-08-04T19:54:50Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 92,
+        "codex_fit": 96,
+        "evidence_quality": 45,
+        "docs_examples": 84
+      }
+    },
+    {
+      "id": "cvpr-poster",
+      "name": "CVPR 2026 Poster Skill",
+      "repo": "yunyiliu/cvpr-2026-poster-skill",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/yunyiliu/cvpr-2026-poster-skill",
+      "focus": "Large-format academic poster",
+      "style": [
+        "CVPR",
+        "research narrative",
+        "figure first",
+        "high density"
+      ],
+      "designer": "Researchers, PhD students, and scientific-visualization designers",
+      "summary": "Plans a conference poster around viewing distance, a concise research story, strong figures, and limited text rather than dumping a paper onto a board.",
+      "scenarios": [
+        "CVPR poster",
+        "Lab open day",
+        "Research wall",
+        "Paper summary board"
+      ],
+      "tips": [
+        "Decide what a visitor must remember in 30 seconds",
+        "Use method and result figures as the visual spine",
+        "Do not paste the abstract verbatim"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/yunyiliu/cvpr-2026-poster-skill"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "Adoption is small but the audience is highly specific; independent public examples remain limited.",
+          "url": "https://github.com/yunyiliu/cvpr-2026-poster-skill",
+          "strength": 2
+        }
+      ],
+      "compatibility": "README explicitly targets Codex and Claude Code",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 46,
+        "forks": 2,
+        "open_issues": 0,
+        "pushed_at": "2026-05-16T09:04:27Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 90,
+        "codex_fit": 94,
+        "evidence_quality": 43,
+        "docs_examples": 82
+      }
+    },
+    {
+      "id": "ink-wash-poster",
+      "name": "Ink Wash Poster",
+      "repo": "TwentyfiveBTea/ink-wash-poster",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/TwentyfiveBTea/ink-wash-poster",
+      "focus": "Ink-wash editorial poster",
+      "style": [
+        "ink wash",
+        "adaptive paper",
+        "restrained typography",
+        "East Asian editorial"
+      ],
+      "designer": "Cultural, exhibition, tea, and lifestyle designers",
+      "summary": "Turns a theme, text, or reference image into a restrained ink-wash editorial poster with adaptive paper tones and an explicit visual-review step.",
+      "scenarios": [
+        "Exhibition posters",
+        "Poetry and book covers",
+        "Tea culture",
+        "Eastern brand mood boards"
+      ],
+      "tips": [
+        "Use ink hierarchy instead of decorative clutter",
+        "Derive paper tone from emotional temperature",
+        "Keep one crisp modern type element as contrast"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/TwentyfiveBTea/ink-wash-poster"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "The style and review process are clear, but public feedback is still mostly author-provided examples.",
+          "url": "https://github.com/TwentyfiveBTea/ink-wash-poster",
+          "strength": 2
+        }
+      ],
+      "compatibility": "Codex-focused SKILL.md",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 26,
+        "forks": 4,
+        "open_issues": 0,
+        "pushed_at": "2026-07-30T07:46:17Z",
+        "license": "AGPL-3.0"
+      },
+      "manual": {
+        "design_fit": 91,
+        "codex_fit": 96,
+        "evidence_quality": 42,
+        "docs_examples": 85
+      }
+    },
+    {
+      "id": "photo-riso-poster",
+      "name": "Photo Riso Poster",
+      "repo": "luckdvr/photo-riso-poster",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/luckdvr/photo-riso-poster",
+      "focus": "Photo-derived risograph archive poster",
+      "style": [
+        "risograph",
+        "two or three inks",
+        "archive",
+        "evidence-based abstraction"
+      ],
+      "designer": "Photographers, archive projects, and independent publishers",
+      "summary": "Abstracts forms that can be traced back to a source photo, producing a quiet two- or three-ink risograph archive poster.",
+      "scenarios": [
+        "Photo exhibition",
+        "Travel archive",
+        "Field notes",
+        "Independent publication cover"
+      ],
+      "tips": [
+        "Choose a photo with clear subject-background hierarchy",
+        "Extract two or three inks from the source",
+        "Every abstract shape should map back to evidence"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/luckdvr/photo-riso-poster"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "Adoption is still very small. The concept is well explained, but long-term user validation is missing.",
+          "url": "https://github.com/luckdvr/photo-riso-poster",
+          "strength": 1
+        }
+      ],
+      "compatibility": "Single-file Codex skill",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 17,
+        "forks": 0,
+        "open_issues": 0,
+        "pushed_at": "2026-08-04T02:06:40Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 91,
+        "codex_fit": 96,
+        "evidence_quality": 34,
+        "docs_examples": 80
+      }
+    },
+    {
+      "id": "wangnov-gpt-image-2",
+      "name": "GPT Image 2 Skill CLI",
+      "repo": "Wangnov/gpt-image-2-skill",
+      "skill_path": "skills/gpt-image-2-skill/SKILL.md",
+      "download_url": "https://github.com/Wangnov/gpt-image-2-skill",
+      "focus": "Scriptable high-resolution image production",
+      "style": [
+        "general",
+        "batch",
+        "transparent background",
+        "API pipeline"
+      ],
+      "designer": "Technical design teams needing automation or multiple providers",
+      "summary": "Provides CLI, desktop, Docker, and skill surfaces. Strong on parameters, storage, automation, and provider routing rather than a unique art direction.",
+      "scenarios": [
+        "Poster variants",
+        "Automated asset production",
+        "Transparent brand assets",
+        "Remote image service"
+      ],
+      "tips": [
+        "Pair it with an art-direction skill",
+        "Pin provider and dimensions in configuration",
+        "Save prompt and output metadata for every batch"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Wangnov/gpt-image-2-skill"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "engineering",
+          "label": "Public evidence",
+          "summary": "The engineering surface is unusually complete, while independent visual-quality feedback and curated poster examples are limited.",
+          "url": "https://github.com/Wangnov/gpt-image-2-skill",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Supports Codex auth.json and an installable skill",
+      "metric_scope": "single-suite",
+      "scope_factor": 0.75,
+      "metrics": {
+        "stars": 980,
+        "forks": 74,
+        "open_issues": 9,
+        "pushed_at": "2026-08-02T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 74,
+        "codex_fit": 92,
+        "evidence_quality": 58,
+        "docs_examples": 90
+      }
+    },
+    {
+      "id": "dshark3y-gpt-image-2",
+      "name": "Free GPT Image 2 Skill",
+      "repo": "dshark3y/gpt-image-2-skill",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/dshark3y/gpt-image-2-skill",
+      "focus": "Low-token access to image parameters",
+      "style": [
+        "general",
+        "API parameters",
+        "low token",
+        "automatic dependencies"
+      ],
+      "designer": "Individual creators wanting a lightweight image wrapper",
+      "summary": "Uses compact instructions and two Python scripts to expose image parameters. It is efficient infrastructure; the creator supplies the art direction.",
+      "scenarios": [
+        "Fast poster drafts",
+        "Multi-size output",
+        "Image edits",
+        "Personal automation"
+      ],
+      "tips": [
+        "Chain it with a poster-style skill",
+        "Use low-cost settings for drafts",
+        "Run a separate copy-legibility pass on final output"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1stokpq/built_a_free_skill_for_gptimage2_all_features/"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "community",
+          "label": "Public evidence",
+          "summary": "The author launched it across several communities. Discussion emphasizes free access, complete parameters, and low token use; long-term examples are limited.",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1stokpq/built_a_free_skill_for_gptimage2_all_features/",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Agent Skill readable by Codex",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 640,
+        "forks": 52,
+        "open_issues": 5,
+        "pushed_at": "2026-07-26T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 72,
+        "codex_fit": 86,
+        "evidence_quality": 62,
+        "docs_examples": 76
+      }
+    },
+    {
+      "id": "gpt-image2-ecommerce",
+      "name": "GPT Image2 E-commerce",
+      "repo": "buluslan/gpt-image2-ecommerce",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/buluslan/gpt-image2-ecommerce",
+      "focus": "E-commerce advertising and product scenes",
+      "style": [
+        "e-commerce",
+        "product ad",
+        "25 scene templates",
+        "commercial photo"
+      ],
+      "designer": "E-commerce brand designers and operations teams",
+      "summary": "Provides multiple scene templates for product and campaign imagery, making it useful for quick key visuals but less focused on editorial poster systems.",
+      "scenarios": [
+        "Product hero",
+        "Seasonal campaign",
+        "Lifestyle scene",
+        "Multi-platform ad sizes"
+      ],
+      "tips": [
+        "Repeat product appearance as an invariant",
+        "Fix lighting and camera language across a campaign",
+        "Add prices and dense copy in post"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/buluslan/gpt-image2-ecommerce"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "The commercial task is specific, while independent third-party reviews remain sparse.",
+          "url": "https://github.com/buluslan/gpt-image2-ecommerce",
+          "strength": 2
+        }
+      ],
+      "compatibility": "Calls imagegen through Codex CLI",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 420,
+        "forks": 36,
+        "open_issues": 4,
+        "pushed_at": "2026-08-01T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 78,
+        "codex_fit": 86,
+        "evidence_quality": 48,
+        "docs_examples": 82
+      }
+    },
+    {
+      "id": "engineering-figure-agent",
+      "name": "Engineering Figure Agent",
+      "repo": "heyu-233/engineering-figure-agent",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/heyu-233/engineering-figure-agent",
+      "focus": "Engineering and research figures",
+      "style": [
+        "engineering",
+        "academic figure",
+        "technical explainer",
+        "structured information"
+      ],
+      "designer": "Engineers, researchers, and technical communication designers",
+      "summary": "Plans and generates engineering or scientific figures with accuracy and explanation as the primary design goals.",
+      "scenarios": [
+        "Paper method figure",
+        "Technical display board",
+        "Engineering flowchart",
+        "Science explainer poster"
+      ],
+      "tips": [
+        "List relationships that must remain exact",
+        "Keep labels short and reviewable",
+        "Rebuild critical coordinates and data in vector tools"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/heyu-233/engineering-figure-agent/blob/main/README.en.md"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "documentation",
+          "label": "Public evidence",
+          "summary": "The task workflow and backend guidance are detailed, but public designer feedback is limited.",
+          "url": "https://github.com/heyu-233/engineering-figure-agent",
+          "strength": 2
+        }
+      ],
+      "compatibility": "Includes Codex skill instructions and an OpenAI image backend",
+      "metric_scope": "single-project",
+      "scope_factor": 0.8,
+      "metrics": {
+        "stars": 310,
+        "forks": 28,
+        "open_issues": 6,
+        "pushed_at": "2026-06-28T12:00:00Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 76,
+        "codex_fit": 82,
+        "evidence_quality": 47,
+        "docs_examples": 84
+      }
+    },
+    {
+      "id": "openakita-poster-maker",
+      "name": "Poster Maker - OpenAkita",
+      "repo": "openakita/openakita",
+      "skill_path": "poster-maker plugin/SKILL.md",
+      "download_url": "https://github.com/openakita/openakita",
+      "focus": "Static poster composition and batch grids",
+      "style": [
+        "static composition",
+        "multi-aspect",
+        "batch",
+        "plugin pipeline"
+      ],
+      "designer": "Teams already using OpenAkita or a media automation pipeline",
+      "summary": "The host framework includes poster-maker and smart-poster-grid with automated tests, but it is not a drop-in Codex Desktop skill.",
+      "scenarios": [
+        "Four-aspect poster batch",
+        "Media pipeline",
+        "Automated quality gate",
+        "Content operations"
+      ],
+      "tips": [
+        "Prefer it only if OpenAkita is already in the stack",
+        "Verify plugin and provider dependencies",
+        "Use quality gates to filter batch output"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/openakita/openakita#bundled-ai-media-plugins-20"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "engineering",
+          "label": "Public evidence",
+          "summary": "Related plugins have automated tests, which is a reliability signal; direct Codex Desktop feedback is missing.",
+          "url": "https://github.com/openakita/openakita",
+          "strength": 3
+        }
+      ],
+      "compatibility": "SKILL.md-compatible but dependent on the OpenAkita runtime",
+      "metric_scope": "framework-plugin",
+      "scope_factor": 0.35,
+      "metrics": {
+        "stars": 7200,
+        "forks": 610,
+        "open_issues": 40,
+        "pushed_at": "2026-08-08T12:00:00Z",
+        "license": "Apache-2.0"
+      },
+      "manual": {
+        "design_fit": 72,
+        "codex_fit": 48,
+        "evidence_quality": 66,
+        "docs_examples": 78
+      }
+    }
+  ]
+}
