@@ -63,11 +63,12 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5136,
-        "forks": 213,
+        "stars": 5157,
+        "forks": 214,
         "open_issues": 2,
         "pushed_at": "2026-08-09T10:28:56Z",
-        "license": "MIT"
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 98,
@@ -133,11 +134,12 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 74702,
-        "forks": 5117,
+        "stars": 74761,
+        "forks": 5122,
         "open_issues": 53,
         "pushed_at": "2026-07-23T16:01:24Z",
-        "license": "MIT"
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 96,
@@ -201,11 +203,12 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 4617,
-        "forks": 410,
-        "open_issues": 18,
-        "pushed_at": "2026-07-28T12:00:00Z",
-        "license": "MIT"
+        "stars": 10201,
+        "forks": 1346,
+        "open_issues": 14,
+        "pushed_at": "2026-07-12T14:36:31Z",
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 94,
@@ -273,11 +276,12 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 105008,
-        "forks": 15897,
-        "open_issues": 12109,
-        "pushed_at": "2026-08-10T04:31:07Z",
-        "license": "Apache-2.0"
+        "stars": 105057,
+        "forks": 15898,
+        "open_issues": 12115,
+        "pushed_at": "2026-08-10T06:49:10Z",
+        "license": "Apache-2.0",
+        "archived": false
       },
       "manual": {
         "design_fit": 84,
@@ -350,11 +354,12 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 4160,
-        "forks": 310,
-        "open_issues": 1,
-        "pushed_at": "2026-07-23T12:00:00Z",
-        "license": "MIT"
+        "stars": 4699,
+        "forks": 234,
+        "open_issues": 2,
+        "pushed_at": "2026-07-30T15:13:45Z",
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 87,
@@ -415,11 +420,12 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8211,
+        "stars": 8212,
         "forks": 804,
         "open_issues": 59,
         "pushed_at": "2026-07-28T09:50:53Z",
-        "license": "Apache-2.0"
+        "license": "Apache-2.0",
+        "archived": false
       },
       "manual": {
         "design_fit": 93,
@@ -474,11 +480,12 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 2600,
-        "forks": 240,
-        "open_issues": 8,
-        "pushed_at": "2026-07-15T12:00:00Z",
-        "license": "MIT"
+        "stars": 4258,
+        "forks": 362,
+        "open_issues": 3,
+        "pushed_at": "2026-07-20T15:43:17Z",
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 88,
@@ -537,7 +544,8 @@
         "forks": 4,
         "open_issues": 0,
         "pushed_at": "2026-08-04T19:54:50Z",
-        "license": "MIT"
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 92,
@@ -595,7 +603,8 @@
         "forks": 2,
         "open_issues": 0,
         "pushed_at": "2026-05-16T09:04:27Z",
-        "license": "MIT"
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 90,
@@ -649,11 +658,12 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 26,
+        "stars": 27,
         "forks": 4,
         "open_issues": 0,
         "pushed_at": "2026-07-30T07:46:17Z",
-        "license": "AGPL-3.0"
+        "license": "AGPL-3.0",
+        "archived": false
       },
       "manual": {
         "design_fit": 91,
@@ -711,7 +721,8 @@
         "forks": 0,
         "open_issues": 0,
         "pushed_at": "2026-08-04T02:06:40Z",
-        "license": "MIT"
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 91,
@@ -765,11 +776,12 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.75,
       "metrics": {
-        "stars": 980,
-        "forks": 74,
-        "open_issues": 9,
-        "pushed_at": "2026-08-02T12:00:00Z",
-        "license": "MIT"
+        "stars": 110,
+        "forks": 12,
+        "open_issues": 2,
+        "pushed_at": "2026-07-26T12:16:40Z",
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 74,
@@ -823,11 +835,12 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 640,
-        "forks": 52,
-        "open_issues": 5,
-        "pushed_at": "2026-07-26T12:00:00Z",
-        "license": "MIT"
+        "stars": 17,
+        "forks": 11,
+        "open_issues": 3,
+        "pushed_at": "2026-04-22T18:54:07Z",
+        "license": "Unknown",
+        "archived": false
       },
       "manual": {
         "design_fit": 72,
@@ -881,11 +894,12 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 420,
-        "forks": 36,
-        "open_issues": 4,
-        "pushed_at": "2026-08-01T12:00:00Z",
-        "license": "MIT"
+        "stars": 293,
+        "forks": 38,
+        "open_issues": 0,
+        "pushed_at": "2026-04-27T12:47:46Z",
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 78,
@@ -939,11 +953,12 @@
       "metric_scope": "single-project",
       "scope_factor": 0.8,
       "metrics": {
-        "stars": 310,
-        "forks": 28,
-        "open_issues": 6,
-        "pushed_at": "2026-06-28T12:00:00Z",
-        "license": "MIT"
+        "stars": 287,
+        "forks": 15,
+        "open_issues": 0,
+        "pushed_at": "2026-05-25T05:27:52Z",
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 76,
@@ -997,17 +1012,75 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 7200,
-        "forks": 610,
+        "stars": 1951,
+        "forks": 268,
         "open_issues": 40,
-        "pushed_at": "2026-08-08T12:00:00Z",
-        "license": "Apache-2.0"
+        "pushed_at": "2026-08-06T08:17:07Z",
+        "license": "AGPL-3.0",
+        "archived": false
       },
       "manual": {
         "design_fit": 72,
         "codex_fit": 48,
         "evidence_quality": 66,
         "docs_examples": 78
+      }
+    },
+    {
+      "id": "oso95-scroll-world",
+      "name": "Scroll World",
+      "repo": "oso95/scroll-world",
+      "skill_path": "SKILL.md / skills directory",
+      "download_url": "https://github.com/oso95/scroll-world",
+      "focus": "自动发现：品牌视觉",
+      "style": [
+        "品牌",
+        "视觉识别",
+        "商业设计"
+      ],
+      "designer": "需要先人工复核的新技能探索者",
+      "summary": "A skill that turn any brand into a scrollable 3D world landing page",
+      "scenarios": [
+        "新技能试用",
+        "视觉方向探索"
+      ],
+      "tips": [
+        "安装前阅读完整 SKILL.md",
+        "先用低风险样例验证输出",
+        "检查许可证与外部 API 依赖"
+      ],
+      "cases": [
+        {
+          "label": "GitHub 仓库",
+          "url": "https://github.com/oso95/scroll-world"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "discovery",
+          "label": "自动发现，待复核",
+          "summary": "项目由每日检索找到；Stars/Forks 仅作采用度代理，尚无独立用户反馈结论。",
+          "url": "https://github.com/oso95/scroll-world",
+          "strength": 1
+        }
+      ],
+      "compatibility": "发现到 SKILL.md 结构；Codex 桌面端兼容性待人工验证",
+      "metric_scope": "auto-discovered",
+      "scope_factor": 0.8,
+      "first_seen": "2026-08-10",
+      "auto_discovered": true,
+      "metrics": {
+        "stars": 7872,
+        "forks": 896,
+        "open_issues": 9,
+        "pushed_at": "2026-07-29T04:44:56Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 82,
+        "codex_fit": 76,
+        "evidence_quality": 30,
+        "docs_examples": 55
       }
     }
   ]

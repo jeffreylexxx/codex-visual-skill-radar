@@ -3,7 +3,7 @@
   "snapshots": [
     {
       "date": "2026-08-10",
-      "updated_at": "2026-08-10T07:45:24.851600Z",
+      "updated_at": "2026-08-10T08:21:31.251499Z",
       "source_status": "github-api",
       "top10": [
         "gc-minimal-zine-poster",
@@ -30,10 +30,11 @@
         "photo-riso-poster": 10,
         "wangnov-gpt-image-2": 11,
         "cvpr-poster": 12,
-        "gpt-image2-ecommerce": 13,
-        "engineering-figure-agent": 14,
-        "dshark3y-gpt-image-2": 15,
-        "openakita-poster-maker": 16
+        "oso95-scroll-world": 13,
+        "gpt-image2-ecommerce": 14,
+        "engineering-figure-agent": 15,
+        "dshark3y-gpt-image-2": 16,
+        "openakita-poster-maker": 17
       },
       "scores": {
         "gc-minimal-zine-poster": 94.6,
@@ -44,10 +45,11 @@
         "html-anything-magazine-poster": 87.7,
         "wuyoscar-gpt-image2": 86.7,
         "fantasy-qiqiguaiguai": 83.2,
-        "ink-wash-poster": 82.1,
+        "ink-wash-poster": 82.0,
         "photo-riso-poster": 80.1,
         "wangnov-gpt-image-2": 79.0,
         "cvpr-poster": 77.5,
+        "oso95-scroll-world": 75.3,
         "gpt-image2-ecommerce": 73.9,
         "engineering-figure-agent": 72.9,
         "dshark3y-gpt-image-2": 70.6,

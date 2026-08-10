@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-10T07:45:24.851600Z",
+  "updated_at": "2026-08-10T08:21:31.251499Z",
   "ranking_date": "2026-08-10",
   "source_status": "github-api",
   "api_errors": [],
-  "rate_limit_remaining": 33,
+  "rate_limit_remaining": 4959,
   "methodology": {
     "weights": {
       "design_fit": 0.3,
@@ -16,10 +16,10 @@
     "note": "Stars and forks are adoption proxies, not user satisfaction. Multi-skill host repositories receive a scope discount."
   },
   "stats": {
-    "tracked": 16,
+    "tracked": 17,
     "top10": 10,
     "ever_top10": 11,
-    "auto_discovered": 0
+    "auto_discovered": 1
   },
   "items": [
     {
@@ -74,8 +74,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5144,
-        "forks": 213,
+        "stars": 5157,
+        "forks": 214,
         "open_issues": 2,
         "pushed_at": "2026-08-09T10:28:56Z",
         "license": "MIT",
@@ -163,8 +163,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 74748,
-        "forks": 5120,
+        "stars": 74761,
+        "forks": 5122,
         "open_issues": 53,
         "pushed_at": "2026-07-23T16:01:24Z",
         "license": "MIT",
@@ -254,9 +254,9 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 105048,
-        "forks": 15900,
-        "open_issues": 12113,
+        "stars": 105057,
+        "forks": 15898,
+        "open_issues": 12115,
         "pushed_at": "2026-08-10T06:49:10Z",
         "license": "Apache-2.0",
         "archived": false
@@ -350,7 +350,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 4697,
+        "stars": 4699,
         "forks": 234,
         "open_issues": 2,
         "pushed_at": "2026-07-30T15:13:45Z",
@@ -374,8 +374,8 @@
         "adoption_proxy": 85
       },
       "rank": 4,
-      "previous_rank": 5,
-      "rank_delta": 1,
+      "previous_rank": 4,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -437,7 +437,7 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 10199,
+        "stars": 10201,
         "forks": 1346,
         "open_issues": 14,
         "pushed_at": "2026-07-12T14:36:31Z",
@@ -461,8 +461,8 @@
         "adoption_proxy": 92
       },
       "rank": 5,
-      "previous_rank": 4,
-      "rank_delta": -1,
+      "previous_rank": 5,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -599,7 +599,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 4255,
+        "stars": 4258,
         "forks": 362,
         "open_issues": 3,
         "pushed_at": "2026-07-20T15:43:17Z",
@@ -767,13 +767,13 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 82.1,
+      "score": 82.0,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 37,
-        "maintenance": 99,
+        "maintenance": 98,
         "docs_examples": 85,
         "adoption_proxy": 32
       },
@@ -855,10 +855,10 @@
         "adoption_proxy": 23
       },
       "rank": 10,
-      "previous_rank": 11,
-      "rank_delta": 1,
+      "previous_rank": 10,
+      "rank_delta": 0,
       "new_entry": false,
-      "new_top10": true,
+      "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
       "last_top10_at": "2026-08-10"
@@ -932,8 +932,8 @@
         "adoption_proxy": 43
       },
       "rank": 11,
-      "previous_rank": 10,
-      "rank_delta": -1,
+      "previous_rank": 11,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -1009,11 +1009,85 @@
         "adoption_proxy": 34
       },
       "rank": 12,
-      "previous_rank": 14,
-      "rank_delta": 2,
+      "previous_rank": 12,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
+      "ever_top10": false,
+      "last_top10_at": null
+    },
+    {
+      "id": "oso95-scroll-world",
+      "name": "Scroll World",
+      "repo": "oso95/scroll-world",
+      "skill_path": "SKILL.md / skills directory",
+      "download_url": "https://github.com/oso95/scroll-world",
+      "focus": "自动发现：品牌视觉",
+      "style": [
+        "品牌",
+        "视觉识别",
+        "商业设计"
+      ],
+      "designer": "需要先人工复核的新技能探索者",
+      "summary": "A skill that turn any brand into a scrollable 3D world landing page",
+      "scenarios": [
+        "新技能试用",
+        "视觉方向探索"
+      ],
+      "tips": [
+        "安装前阅读完整 SKILL.md",
+        "先用低风险样例验证输出",
+        "检查许可证与外部 API 依赖"
+      ],
+      "cases": [
+        {
+          "label": "GitHub 仓库",
+          "url": "https://github.com/oso95/scroll-world"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "discovery",
+          "label": "自动发现，待复核",
+          "summary": "项目由每日检索找到；Stars/Forks 仅作采用度代理，尚无独立用户反馈结论。",
+          "url": "https://github.com/oso95/scroll-world",
+          "strength": 1
+        }
+      ],
+      "compatibility": "发现到 SKILL.md 结构；Codex 桌面端兼容性待人工验证",
+      "metric_scope": "auto-discovered",
+      "scope_factor": 0.8,
+      "first_seen": "2026-08-10",
+      "auto_discovered": true,
+      "metrics": {
+        "stars": 7872,
+        "forks": 896,
+        "open_issues": 9,
+        "pushed_at": "2026-07-29T04:44:56Z",
+        "license": "MIT"
+      },
+      "manual": {
+        "design_fit": 82,
+        "codex_fit": 76,
+        "evidence_quality": 30,
+        "docs_examples": 55
+      },
+      "score": 75.3,
+      "confidence": 34,
+      "score_breakdown": {
+        "design_fit": 82,
+        "codex_fit": 76,
+        "public_feedback": 58,
+        "maintenance": 98,
+        "docs_examples": 55,
+        "adoption_proxy": 91
+      },
+      "rank": 13,
+      "previous_rank": null,
+      "rank_delta": 0,
+      "new_entry": true,
+      "new_top10": false,
       "ever_top10": false,
       "last_top10_at": null
     },
@@ -1085,8 +1159,8 @@
         "docs_examples": 82,
         "adoption_proxy": 57
       },
-      "rank": 13,
-      "previous_rank": 12,
+      "rank": 14,
+      "previous_rank": 13,
       "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
@@ -1162,9 +1236,9 @@
         "docs_examples": 84,
         "adoption_proxy": 51
       },
-      "rank": 14,
-      "previous_rank": 15,
-      "rank_delta": 1,
+      "rank": 15,
+      "previous_rank": 14,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -1239,9 +1313,9 @@
         "docs_examples": 76,
         "adoption_proxy": 31
       },
-      "rank": 15,
-      "previous_rank": 13,
-      "rank_delta": -2,
+      "rank": 16,
+      "previous_rank": 15,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -1316,9 +1390,9 @@
         "docs_examples": 78,
         "adoption_proxy": 67
       },
-      "rank": 16,
+      "rank": 17,
       "previous_rank": 16,
-      "rank_delta": 0,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
