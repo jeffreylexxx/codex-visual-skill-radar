@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T12:57:55.454080Z",
-  "ranking_date": "2026-08-28",
+  "updated_at": "2026-08-29T07:55:10.892636Z",
+  "ranking_date": "2026-08-29",
   "source_status": "github-api",
   "api_errors": [],
-  "rate_limit_remaining": 4980,
+  "rate_limit_remaining": 4984,
   "methodology": {
     "weights": {
       "design_fit": 0.3,
@@ -74,8 +74,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 6720,
-        "forks": 292,
+        "stars": 6737,
+        "forks": 293,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
         "license": "MIT",
@@ -87,7 +87,7 @@
         "evidence_quality": 78,
         "docs_examples": 94
       },
-      "score": 94.4,
+      "score": 94.3,
       "confidence": 78,
       "score_breakdown": {
         "design_fit": 98,
@@ -104,7 +104,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "brandkit",
@@ -163,8 +163,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 81745,
-        "forks": 5598,
+        "stars": 81984,
+        "forks": 5610,
         "open_issues": 58,
         "pushed_at": "2026-08-24T15:23:56Z",
         "license": "MIT",
@@ -193,7 +193,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "codex-imagegen",
@@ -254,10 +254,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 119457,
-        "forks": 18224,
-        "open_issues": 14211,
-        "pushed_at": "2026-08-28T12:41:58Z",
+        "stars": 119656,
+        "forks": 18279,
+        "open_issues": 14326,
+        "pushed_at": "2026-08-29T06:06:43Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -284,7 +284,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "codex-ppt",
@@ -350,8 +350,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5309,
-        "forks": 267,
+        "stars": 5327,
+        "forks": 268,
         "open_issues": 2,
         "pushed_at": "2026-07-30T15:13:45Z",
         "license": "MIT",
@@ -363,7 +363,7 @@
         "evidence_quality": 94,
         "docs_examples": 98
       },
-      "score": 92.2,
+      "score": 92.1,
       "confidence": 93,
       "score_breakdown": {
         "design_fit": 87,
@@ -371,7 +371,7 @@
         "public_feedback": 91,
         "maintenance": 91,
         "docs_examples": 98,
-        "adoption_proxy": 86
+        "adoption_proxy": 87
       },
       "rank": 4,
       "previous_rank": 4,
@@ -380,7 +380,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 11513,
-        "forks": 1426,
+        "stars": 11597,
+        "forks": 1443,
         "open_issues": 16,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -458,7 +458,7 @@
         "public_feedback": 88,
         "maintenance": 85,
         "docs_examples": 95,
-        "adoption_proxy": 93
+        "adoption_proxy": 94
       },
       "rank": 5,
       "previous_rank": 5,
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -521,8 +521,8 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8514,
-        "forks": 840,
+        "stars": 8538,
+        "forks": 841,
         "open_issues": 60,
         "pushed_at": "2026-08-23T08:53:57Z",
         "license": "Apache-2.0",
@@ -551,7 +551,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -599,7 +599,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 4970,
+        "stars": 4979,
         "forks": 433,
         "open_issues": 4,
         "pushed_at": "2026-08-10T12:36:52Z",
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -677,7 +677,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 95,
+        "stars": 97,
         "forks": 8,
         "open_issues": 0,
         "pushed_at": "2026-08-04T19:54:50Z",
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "ink-wash-poster",
@@ -767,13 +767,13 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 81.5,
+      "score": 81.4,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 40,
-        "maintenance": 91,
+        "maintenance": 90,
         "docs_examples": 85,
         "adoption_proxy": 38
       },
@@ -784,84 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-28"
-    },
-    {
-      "id": "photo-riso-poster",
-      "name": "Photo Riso Poster",
-      "repo": "luckdvr/photo-riso-poster",
-      "skill_path": "SKILL.md",
-      "download_url": "https://github.com/luckdvr/photo-riso-poster",
-      "focus": "Photo-derived risograph archive poster",
-      "style": [
-        "risograph",
-        "two or three inks",
-        "archive",
-        "evidence-based abstraction"
-      ],
-      "designer": "Photographers, archive projects, and independent publishers",
-      "summary": "Abstracts forms that can be traced back to a source photo, producing a quiet two- or three-ink risograph archive poster.",
-      "scenarios": [
-        "Photo exhibition",
-        "Travel archive",
-        "Field notes",
-        "Independent publication cover"
-      ],
-      "tips": [
-        "Choose a photo with clear subject-background hierarchy",
-        "Extract two or three inks from the source",
-        "Every abstract shape should map back to evidence"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/luckdvr/photo-riso-poster"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "Adoption is still very small. The concept is well explained, but long-term user validation is missing.",
-          "url": "https://github.com/luckdvr/photo-riso-poster",
-          "strength": 1
-        }
-      ],
-      "compatibility": "Single-file Codex skill",
-      "metric_scope": "single-skill",
-      "scope_factor": 1.0,
-      "metrics": {
-        "stars": 26,
-        "forks": 2,
-        "open_issues": 0,
-        "pushed_at": "2026-08-04T02:06:40Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 91,
-        "codex_fit": 96,
-        "evidence_quality": 34,
-        "docs_examples": 80
-      },
-      "score": 79.6,
-      "confidence": 42,
-      "score_breakdown": {
-        "design_fit": 91,
-        "codex_fit": 96,
-        "public_feedback": 32,
-        "maintenance": 93,
-        "docs_examples": 80,
-        "adoption_proxy": 30
-      },
-      "rank": 10,
-      "previous_rank": 10,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-08-28"
+      "last_top10_at": "2026-08-29"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -931,14 +854,91 @@
         "docs_examples": 90,
         "adoption_proxy": 44
       },
-      "rank": 11,
+      "rank": 10,
       "previous_rank": 11,
-      "rank_delta": 0,
+      "rank_delta": 1,
+      "new_entry": false,
+      "new_top10": true,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-08-29"
+    },
+    {
+      "id": "photo-riso-poster",
+      "name": "Photo Riso Poster",
+      "repo": "luckdvr/photo-riso-poster",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/luckdvr/photo-riso-poster",
+      "focus": "Photo-derived risograph archive poster",
+      "style": [
+        "risograph",
+        "two or three inks",
+        "archive",
+        "evidence-based abstraction"
+      ],
+      "designer": "Photographers, archive projects, and independent publishers",
+      "summary": "Abstracts forms that can be traced back to a source photo, producing a quiet two- or three-ink risograph archive poster.",
+      "scenarios": [
+        "Photo exhibition",
+        "Travel archive",
+        "Field notes",
+        "Independent publication cover"
+      ],
+      "tips": [
+        "Choose a photo with clear subject-background hierarchy",
+        "Extract two or three inks from the source",
+        "Every abstract shape should map back to evidence"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/luckdvr/photo-riso-poster"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "Adoption is still very small. The concept is well explained, but long-term user validation is missing.",
+          "url": "https://github.com/luckdvr/photo-riso-poster",
+          "strength": 1
+        }
+      ],
+      "compatibility": "Single-file Codex skill",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 26,
+        "forks": 2,
+        "open_issues": 0,
+        "pushed_at": "2026-08-04T02:06:40Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 91,
+        "codex_fit": 96,
+        "evidence_quality": 34,
+        "docs_examples": 80
+      },
+      "score": 79.5,
+      "confidence": 42,
+      "score_breakdown": {
+        "design_fit": 91,
+        "codex_fit": 96,
+        "public_feedback": 32,
+        "maintenance": 92,
+        "docs_examples": 80,
+        "adoption_proxy": 30
+      },
+      "rank": 11,
+      "previous_rank": 10,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-08-10"
+      "last_top10_at": "2026-08-28"
     },
     {
       "id": "gpt-image2-ecommerce",
@@ -985,7 +985,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 337,
+        "stars": 339,
         "forks": 47,
         "open_issues": 1,
         "pushed_at": "2026-08-19T05:25:44Z",
@@ -998,7 +998,7 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 78.6,
+      "score": 78.5,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
@@ -1138,8 +1138,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 8744,
-        "forks": 1000,
+        "stars": 8766,
+        "forks": 1001,
         "open_issues": 7,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1227,7 +1227,7 @@
         "evidence_quality": 47,
         "docs_examples": 84
       },
-      "score": 72.2,
+      "score": 72.1,
       "confidence": 51,
       "score_breakdown": {
         "design_fit": 76,
@@ -1368,7 +1368,7 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1975,
+        "stars": 1976,
         "forks": 273,
         "open_issues": 45,
         "pushed_at": "2026-08-14T02:58:23Z",
