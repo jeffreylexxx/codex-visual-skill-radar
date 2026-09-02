@@ -1,5 +1,8 @@
 # Codex Visual Skill Radar
 
+DEMO link:
+https://jeffreylexxx.github.io/codex-visual-skill-radar/
+
 An evidence-aware, daily-updated ranking of GitHub skills for graphic design, posters, brand systems, editorial visuals, image-first presentations, and visual-production workflows in Codex.
 
 The site is a static application. It requires no framework, package install, database, API key, or server at viewing time. GitHub Actions refreshes public repository signals once a day, keeps every historical top-ten entry, commits the resulting data snapshot, and deploys the site to GitHub Pages.
