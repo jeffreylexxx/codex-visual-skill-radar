@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T06:01:16.359642Z",
-  "ranking_date": "2026-09-04",
+  "updated_at": "2026-09-05T05:51:49.221899Z",
+  "ranking_date": "2026-09-05",
   "source_status": "github-api",
   "api_errors": [],
-  "rate_limit_remaining": 4979,
+  "rate_limit_remaining": 4982,
   "methodology": {
     "weights": {
       "design_fit": 0.3,
@@ -79,8 +79,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 84128,
-        "forks": 5753,
+        "stars": 84411,
+        "forks": 5779,
         "open_issues": 60,
         "pushed_at": "2026-08-24T15:23:56Z",
         "license": "MIT",
@@ -98,7 +98,7 @@
         "design_fit": 96,
         "codex_fit": 91,
         "public_feedback": 92,
-        "maintenance": 99,
+        "maintenance": 98,
         "docs_examples": 92,
         "adoption_proxy": 100
       },
@@ -109,7 +109,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -163,8 +163,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 6903,
-        "forks": 302,
+        "stars": 6931,
+        "forks": 304,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
         "license": "MIT",
@@ -176,7 +176,7 @@
         "evidence_quality": 78,
         "docs_examples": 94
       },
-      "score": 94.0,
+      "score": 93.9,
       "confidence": 78,
       "score_breakdown": {
         "design_fit": 98,
@@ -193,7 +193,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "codex-imagegen",
@@ -254,10 +254,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 121346,
-        "forks": 18594,
-        "open_issues": 15135,
-        "pushed_at": "2026-09-04T05:22:27Z",
+        "stars": 121600,
+        "forks": 18637,
+        "open_issues": 15316,
+        "pushed_at": "2026-09-05T05:33:21Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -284,94 +284,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
-    },
-    {
-      "id": "garden-gpt-image-2",
-      "name": "GPT Image 2 - Garden Skills",
-      "repo": "ConardLi/garden-skills",
-      "skill_path": "skills/gpt-image-2/SKILL.md",
-      "download_url": "https://github.com/ConardLi/garden-skills/tree/main/skills/gpt-image-2",
-      "focus": "Broad visual prompt engineering",
-      "style": [
-        "poster",
-        "UI",
-        "product visual",
-        "infographic",
-        "technical figure",
-        "comic"
-      ],
-      "designer": "Multidisciplinary visual and product designers",
-      "summary": "A large structured prompt system spanning posters, brand boards, product imagery, academic figures, diagrams, comics, and storyboards.",
-      "scenarios": [
-        "Campaign posters",
-        "Infographics",
-        "Product advertising",
-        "Technical diagrams",
-        "Social assets"
-      ],
-      "tips": [
-        "Choose the template family before styling",
-        "List exact copy as verbatim text",
-        "Repeat edit invariants on every iteration"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/ConardLi/garden-skills#gpt-image-2"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "registry",
-          "label": "Public evidence",
-          "summary": "skills.sh reports thousands of installs for this sub-skill; external coverage praises the breadth but recommends reviewing permissions and data flows.",
-          "url": "https://www.skills.sh/conardli/garden-skills",
-          "strength": 4
-        },
-        {
-          "type": "review",
-          "label": "Public evidence",
-          "summary": "Supplementary source; open the original link to review its full context.",
-          "url": "https://dev.co/ai/rag/garden-skills",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Repository explicitly reports Codex testing",
-      "metric_scope": "multi-skill",
-      "scope_factor": 0.65,
-      "metrics": {
-        "stars": 12133,
-        "forks": 1475,
-        "open_issues": 19,
-        "pushed_at": "2026-07-12T14:36:31Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 94,
-        "codex_fit": 96,
-        "evidence_quality": 84,
-        "docs_examples": 95
-      },
-      "score": 91.9,
-      "confidence": 82,
-      "score_breakdown": {
-        "design_fit": 94,
-        "codex_fit": 96,
-        "public_feedback": 89,
-        "maintenance": 83,
-        "docs_examples": 95,
-        "adoption_proxy": 94
-      },
-      "rank": 4,
-      "previous_rank": 5,
-      "rank_delta": 1,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "codex-ppt",
@@ -437,9 +350,9 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5557,
+        "stars": 5606,
         "forks": 275,
-        "open_issues": 5,
+        "open_issues": 6,
         "pushed_at": "2026-07-30T15:13:45Z",
         "license": "MIT",
         "archived": false
@@ -460,6 +373,93 @@
         "docs_examples": 98,
         "adoption_proxy": 87
       },
+      "rank": 4,
+      "previous_rank": 5,
+      "rank_delta": 1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-09-05"
+    },
+    {
+      "id": "garden-gpt-image-2",
+      "name": "GPT Image 2 - Garden Skills",
+      "repo": "ConardLi/garden-skills",
+      "skill_path": "skills/gpt-image-2/SKILL.md",
+      "download_url": "https://github.com/ConardLi/garden-skills/tree/main/skills/gpt-image-2",
+      "focus": "Broad visual prompt engineering",
+      "style": [
+        "poster",
+        "UI",
+        "product visual",
+        "infographic",
+        "technical figure",
+        "comic"
+      ],
+      "designer": "Multidisciplinary visual and product designers",
+      "summary": "A large structured prompt system spanning posters, brand boards, product imagery, academic figures, diagrams, comics, and storyboards.",
+      "scenarios": [
+        "Campaign posters",
+        "Infographics",
+        "Product advertising",
+        "Technical diagrams",
+        "Social assets"
+      ],
+      "tips": [
+        "Choose the template family before styling",
+        "List exact copy as verbatim text",
+        "Repeat edit invariants on every iteration"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/ConardLi/garden-skills#gpt-image-2"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "registry",
+          "label": "Public evidence",
+          "summary": "skills.sh reports thousands of installs for this sub-skill; external coverage praises the breadth but recommends reviewing permissions and data flows.",
+          "url": "https://www.skills.sh/conardli/garden-skills",
+          "strength": 4
+        },
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://dev.co/ai/rag/garden-skills",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Repository explicitly reports Codex testing",
+      "metric_scope": "multi-skill",
+      "scope_factor": 0.65,
+      "metrics": {
+        "stars": 12170,
+        "forks": 1475,
+        "open_issues": 19,
+        "pushed_at": "2026-07-12T14:36:31Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 94,
+        "codex_fit": 96,
+        "evidence_quality": 84,
+        "docs_examples": 95
+      },
+      "score": 91.8,
+      "confidence": 82,
+      "score_breakdown": {
+        "design_fit": 94,
+        "codex_fit": 96,
+        "public_feedback": 89,
+        "maintenance": 83,
+        "docs_examples": 95,
+        "adoption_proxy": 94
+      },
       "rank": 5,
       "previous_rank": 4,
       "rank_delta": -1,
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -521,9 +521,9 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8647,
-        "forks": 846,
-        "open_issues": 60,
+        "stars": 8659,
+        "forks": 847,
+        "open_issues": 62,
         "pushed_at": "2026-08-23T08:53:57Z",
         "license": "Apache-2.0",
         "archived": false
@@ -551,7 +551,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -599,7 +599,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5130,
+        "stars": 5154,
         "forks": 444,
         "open_issues": 3,
         "pushed_at": "2026-09-04T05:26:52Z",
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -690,7 +690,7 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 82.5,
+      "score": 82.4,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "ink-wash-poster",
@@ -754,7 +754,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 58,
+        "stars": 59,
         "forks": 6,
         "open_issues": 0,
         "pushed_at": "2026-07-30T07:46:17Z",
@@ -767,12 +767,12 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 81.2,
+      "score": 81.1,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
         "codex_fit": 96,
-        "public_feedback": 40,
+        "public_feedback": 41,
         "maintenance": 88,
         "docs_examples": 85,
         "adoption_proxy": 39
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -831,7 +831,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.75,
       "metrics": {
-        "stars": 130,
+        "stars": 133,
         "forks": 14,
         "open_issues": 22,
         "pushed_at": "2026-09-03T08:24:14Z",
@@ -852,7 +852,7 @@
         "public_feedback": 52,
         "maintenance": 100,
         "docs_examples": 90,
-        "adoption_proxy": 44
+        "adoption_proxy": 45
       },
       "rank": 10,
       "previous_rank": 10,
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-04"
+      "last_top10_at": "2026-09-05"
     },
     {
       "id": "photo-riso-poster",
@@ -927,7 +927,7 @@
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 32,
-        "maintenance": 90,
+        "maintenance": 89,
         "docs_examples": 80,
         "adoption_proxy": 30
       },
@@ -985,7 +985,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 348,
+        "stars": 352,
         "forks": 48,
         "open_issues": 1,
         "pushed_at": "2026-08-19T05:25:44Z",
@@ -1138,8 +1138,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 8967,
-        "forks": 1013,
+        "stars": 8998,
+        "forks": 1016,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1304,13 +1304,13 @@
         "evidence_quality": 62,
         "docs_examples": 76
       },
-      "score": 70.0,
+      "score": 69.9,
       "confidence": 60,
       "score_breakdown": {
         "design_fit": 72,
         "codex_fit": 86,
         "public_feedback": 49,
-        "maintenance": 64,
+        "maintenance": 63,
         "docs_examples": 76,
         "adoption_proxy": 32
       },
@@ -1368,10 +1368,10 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1978,
+        "stars": 1979,
         "forks": 275,
-        "open_issues": 48,
-        "pushed_at": "2026-08-14T02:58:23Z",
+        "open_issues": 45,
+        "pushed_at": "2026-09-05T04:46:30Z",
         "license": "AGPL-3.0",
         "archived": false
       },
@@ -1381,13 +1381,13 @@
         "evidence_quality": 66,
         "docs_examples": 78
       },
-      "score": 68.8,
+      "score": 69.7,
       "confidence": 62,
       "score_breakdown": {
         "design_fit": 72,
         "codex_fit": 48,
         "public_feedback": 66,
-        "maintenance": 94,
+        "maintenance": 100,
         "docs_examples": 78,
         "adoption_proxy": 67
       },
