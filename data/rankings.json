@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T06:07:46.038674Z",
-  "ranking_date": "2026-09-11",
+  "updated_at": "2026-09-12T05:55:34.474411Z",
+  "ranking_date": "2026-09-12",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -86,10 +86,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5785,
+        "stars": 5804,
         "forks": 283,
         "open_issues": 6,
-        "pushed_at": "2026-09-10T18:03:27Z",
+        "pushed_at": "2026-09-12T04:51:03Z",
         "license": "MIT",
         "archived": false
       },
@@ -110,13 +110,13 @@
         "adoption_proxy": 87
       },
       "rank": 1,
-      "previous_rank": 4,
-      "rank_delta": 3,
+      "previous_rank": 1,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "brandkit",
@@ -175,9 +175,9 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 86105,
-        "forks": 5876,
-        "open_issues": 63,
+        "stars": 86358,
+        "forks": 5891,
+        "open_issues": 65,
         "pushed_at": "2026-08-24T15:23:56Z",
         "license": "MIT",
         "archived": false
@@ -188,24 +188,24 @@
         "evidence_quality": 86,
         "docs_examples": 92
       },
-      "score": 93.6,
+      "score": 93.5,
       "confidence": 82,
       "score_breakdown": {
         "design_fit": 96,
         "codex_fit": 91,
         "public_feedback": 92,
-        "maintenance": 96,
+        "maintenance": 95,
         "docs_examples": 92,
         "adoption_proxy": 100
       },
       "rank": 2,
-      "previous_rank": 1,
-      "rank_delta": -1,
+      "previous_rank": 2,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -259,8 +259,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7025,
-        "forks": 312,
+        "stars": 7038,
+        "forks": 314,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
         "license": "MIT",
@@ -272,7 +272,7 @@
         "evidence_quality": 78,
         "docs_examples": 94
       },
-      "score": 93.6,
+      "score": 93.5,
       "confidence": 78,
       "score_breakdown": {
         "design_fit": 98,
@@ -283,13 +283,13 @@
         "adoption_proxy": 89
       },
       "rank": 3,
-      "previous_rank": 2,
-      "rank_delta": -1,
+      "previous_rank": 3,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "codex-imagegen",
@@ -350,10 +350,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 123171,
-        "forks": 18964,
-        "open_issues": 16565,
-        "pushed_at": "2026-09-11T06:07:16Z",
+        "stars": 123463,
+        "forks": 19006,
+        "open_issues": 16733,
+        "pushed_at": "2026-09-12T05:04:25Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -374,13 +374,13 @@
         "adoption_proxy": 100
       },
       "rank": 4,
-      "previous_rank": 3,
-      "rank_delta": -1,
+      "previous_rank": 4,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12338,
-        "forks": 1493,
+        "stars": 12356,
+        "forks": 1495,
         "open_issues": 18,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -450,7 +450,7 @@
         "evidence_quality": 84,
         "docs_examples": 95
       },
-      "score": 91.6,
+      "score": 91.5,
       "confidence": 82,
       "score_breakdown": {
         "design_fit": 94,
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -515,8 +515,8 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5304,
-        "forks": 457,
+        "stars": 5324,
+        "forks": 459,
         "open_issues": 3,
         "pushed_at": "2026-09-09T14:36:03Z",
         "license": "MIT",
@@ -536,7 +536,7 @@
         "public_feedback": 75,
         "maintenance": 100,
         "docs_examples": 94,
-        "adoption_proxy": 86
+        "adoption_proxy": 87
       },
       "rank": 6,
       "previous_rank": 6,
@@ -545,7 +545,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -599,9 +599,9 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8740,
-        "forks": 848,
-        "open_issues": 62,
+        "stars": 8758,
+        "forks": 851,
+        "open_issues": 63,
         "pushed_at": "2026-08-23T08:53:57Z",
         "license": "Apache-2.0",
         "archived": false
@@ -612,7 +612,7 @@
         "evidence_quality": 80,
         "docs_examples": 97
       },
-      "score": 87.4,
+      "score": 87.3,
       "confidence": 79,
       "score_breakdown": {
         "design_fit": 93,
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "ink-wash-poster",
@@ -767,7 +767,7 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 80.9,
+      "score": 80.8,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-11"
+      "last_top10_at": "2026-09-12"
     },
     {
       "id": "photo-riso-poster",
@@ -908,7 +908,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 34,
+        "stars": 36,
         "forks": 2,
         "open_issues": 0,
         "pushed_at": "2026-08-04T02:06:40Z",
@@ -927,7 +927,7 @@
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 33,
-        "maintenance": 88,
+        "maintenance": 87,
         "docs_examples": 80,
         "adoption_proxy": 32
       },
@@ -986,7 +986,7 @@
       "scope_factor": 1.0,
       "metrics": {
         "stars": 367,
-        "forks": 47,
+        "forks": 48,
         "open_issues": 1,
         "pushed_at": "2026-08-19T05:25:44Z",
         "license": "MIT",
@@ -1095,6 +1095,83 @@
       "last_top10_at": null
     },
     {
+      "id": "dshark3y-gpt-image-2",
+      "name": "Free GPT Image 2 Skill",
+      "repo": "dshark3y/gpt-image-2-skill",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/dshark3y/gpt-image-2-skill",
+      "focus": "Low-token access to image parameters",
+      "style": [
+        "general",
+        "API parameters",
+        "low token",
+        "automatic dependencies"
+      ],
+      "designer": "Individual creators wanting a lightweight image wrapper",
+      "summary": "Uses compact instructions and two Python scripts to expose image parameters. It is efficient infrastructure; the creator supplies the art direction.",
+      "scenarios": [
+        "Fast poster drafts",
+        "Multi-size output",
+        "Image edits",
+        "Personal automation"
+      ],
+      "tips": [
+        "Chain it with a poster-style skill",
+        "Use low-cost settings for drafts",
+        "Run a separate copy-legibility pass on final output"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1stokpq/built_a_free_skill_for_gptimage2_all_features/"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "community",
+          "label": "Public evidence",
+          "summary": "The author launched it across several communities. Discussion emphasizes free access, complete parameters, and low token use; long-term examples are limited.",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1stokpq/built_a_free_skill_for_gptimage2_all_features/",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Agent Skill readable by Codex",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 19,
+        "forks": 11,
+        "open_issues": 3,
+        "pushed_at": "2026-09-11T17:59:04Z",
+        "license": "Unknown",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 72,
+        "codex_fit": 86,
+        "evidence_quality": 62,
+        "docs_examples": 76
+      },
+      "score": 75.4,
+      "confidence": 60,
+      "score_breakdown": {
+        "design_fit": 72,
+        "codex_fit": 86,
+        "public_feedback": 49,
+        "maintenance": 100,
+        "docs_examples": 76,
+        "adoption_proxy": 32
+      },
+      "rank": 14,
+      "previous_rank": 16,
+      "rank_delta": 2,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": false,
+      "last_top10_at": null
+    },
+    {
       "id": "oso95-scroll-world",
       "name": "Scroll World",
       "repo": "oso95/scroll-world",
@@ -1138,7 +1215,7 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9209,
+        "stars": 9223,
         "forks": 1031,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
@@ -1161,9 +1238,9 @@
         "docs_examples": 55,
         "adoption_proxy": 93
       },
-      "rank": 14,
+      "rank": 15,
       "previous_rank": 14,
-      "rank_delta": 0,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "ever_top10": false,
@@ -1237,86 +1314,9 @@
         "docs_examples": 84,
         "adoption_proxy": 52
       },
-      "rank": 15,
-      "previous_rank": 15,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": false,
-      "last_top10_at": null
-    },
-    {
-      "id": "dshark3y-gpt-image-2",
-      "name": "Free GPT Image 2 Skill",
-      "repo": "dshark3y/gpt-image-2-skill",
-      "skill_path": "SKILL.md",
-      "download_url": "https://github.com/dshark3y/gpt-image-2-skill",
-      "focus": "Low-token access to image parameters",
-      "style": [
-        "general",
-        "API parameters",
-        "low token",
-        "automatic dependencies"
-      ],
-      "designer": "Individual creators wanting a lightweight image wrapper",
-      "summary": "Uses compact instructions and two Python scripts to expose image parameters. It is efficient infrastructure; the creator supplies the art direction.",
-      "scenarios": [
-        "Fast poster drafts",
-        "Multi-size output",
-        "Image edits",
-        "Personal automation"
-      ],
-      "tips": [
-        "Chain it with a poster-style skill",
-        "Use low-cost settings for drafts",
-        "Run a separate copy-legibility pass on final output"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://www.reddit.com/r/ClaudeCode/comments/1stokpq/built_a_free_skill_for_gptimage2_all_features/"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "community",
-          "label": "Public evidence",
-          "summary": "The author launched it across several communities. Discussion emphasizes free access, complete parameters, and low token use; long-term examples are limited.",
-          "url": "https://www.reddit.com/r/ClaudeCode/comments/1stokpq/built_a_free_skill_for_gptimage2_all_features/",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Agent Skill readable by Codex",
-      "metric_scope": "single-skill",
-      "scope_factor": 1.0,
-      "metrics": {
-        "stars": 19,
-        "forks": 11,
-        "open_issues": 3,
-        "pushed_at": "2026-04-22T18:54:07Z",
-        "license": "Unknown",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 72,
-        "codex_fit": 86,
-        "evidence_quality": 62,
-        "docs_examples": 76
-      },
-      "score": 69.8,
-      "confidence": 60,
-      "score_breakdown": {
-        "design_fit": 72,
-        "codex_fit": 86,
-        "public_feedback": 49,
-        "maintenance": 62,
-        "docs_examples": 76,
-        "adoption_proxy": 32
-      },
       "rank": 16,
-      "previous_rank": 16,
-      "rank_delta": 0,
+      "previous_rank": 15,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -1370,8 +1370,8 @@
       "metrics": {
         "stars": 1983,
         "forks": 277,
-        "open_issues": 45,
-        "pushed_at": "2026-09-09T08:52:35Z",
+        "open_issues": 43,
+        "pushed_at": "2026-09-11T09:52:00Z",
         "license": "AGPL-3.0",
         "archived": false
       },
