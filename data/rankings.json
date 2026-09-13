@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-12T05:55:34.474411Z",
-  "ranking_date": "2026-09-12",
+  "updated_at": "2026-09-13T06:18:40.338062Z",
+  "ranking_date": "2026-09-13",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -86,10 +86,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5804,
-        "forks": 283,
+        "stars": 5820,
+        "forks": 285,
         "open_issues": 6,
-        "pushed_at": "2026-09-12T04:51:03Z",
+        "pushed_at": "2026-09-13T05:33:16Z",
         "license": "MIT",
         "archived": false
       },
@@ -116,180 +116,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
-    },
-    {
-      "id": "brandkit",
-      "name": "Brandkit",
-      "repo": "Leonxlnx/taste-skill",
-      "skill_path": "skills/brandkit/SKILL.md",
-      "download_url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit",
-      "focus": "Brand identity system boards",
-      "style": [
-        "premium minimal",
-        "cinematic",
-        "luxury",
-        "dark tech",
-        "cultural identity"
-      ],
-      "designer": "Brand designers, creative directors, and independent studios",
-      "summary": "Creates brand-guideline boards, logo directions, palette and type systems, packaging, and identity applications as one visual world.",
-      "scenarios": [
-        "Brand pitches",
-        "Logo direction studies",
-        "Identity boards",
-        "Concept launches"
-      ],
-      "tips": [
-        "Define the brand tension and symbolic idea first",
-        "Explore one logo logic per round",
-        "Test the system across physical and digital applications"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/brandkit/SKILL.md"
-        },
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/Leonxlnx/taste-skill#image-generation-skills"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "review",
-          "label": "Public evidence",
-          "summary": "A third-party production-readiness review scores the host project well for reliability and standards while flagging privacy documentation; repository adoption covers the whole suite.",
-          "url": "https://legit.show/s/gh-leonxlnx-taste-skill",
-          "strength": 4
-        },
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "Supplementary source; open the original link to review its full context.",
-          "url": "https://github.com/Leonxlnx/taste-skill",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Portable SKILL.md; works with Codex image generation",
-      "metric_scope": "multi-skill",
-      "scope_factor": 0.55,
-      "metrics": {
-        "stars": 86358,
-        "forks": 5891,
-        "open_issues": 65,
-        "pushed_at": "2026-08-24T15:23:56Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 96,
-        "codex_fit": 91,
-        "evidence_quality": 86,
-        "docs_examples": 92
-      },
-      "score": 93.5,
-      "confidence": 82,
-      "score_breakdown": {
-        "design_fit": 96,
-        "codex_fit": 91,
-        "public_feedback": 92,
-        "maintenance": 95,
-        "docs_examples": 92,
-        "adoption_proxy": 100
-      },
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-09-12"
-    },
-    {
-      "id": "gc-minimal-zine-poster",
-      "name": "GC Minimal Zine Poster",
-      "repo": "LiamGvchi/gc-minimal-zine-poster",
-      "skill_path": "SKILL.md",
-      "download_url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
-      "focus": "Minimal editorial poster",
-      "style": [
-        "Japanese/Korean indie zine",
-        "aged paper",
-        "risograph",
-        "negative space"
-      ],
-      "designer": "Editorial designers, cultural creators, and independent publishers",
-      "summary": "Turns a theme, sentence, article, or photo into a vertical 3:5 paper poster built around one small visual anchor and one saturated ink color.",
-      "scenarios": [
-        "Bookstore and exhibition posters",
-        "Podcast or article covers",
-        "Vertical social artwork",
-        "Poetic personal work"
-      ],
-      "tips": [
-        "Start with one proposition rather than a full article",
-        "Name one accent color and paper mood",
-        "Check whether the color anchor survives at thumbnail size"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster#examples"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "A single-skill repository gained strong stars and forks quickly; OSSInsight provides a second, auditable activity view.",
-          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
-          "strength": 4
-        },
-        {
-          "type": "analytics",
-          "label": "Public evidence",
-          "summary": "Supplementary source; open the original link to review its full context.",
-          "url": "https://ossinsight.io/analyze/LiamGvchi/gc-minimal-zine-poster",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Native Codex workflow using built-in imagegen",
-      "metric_scope": "single-skill",
-      "scope_factor": 1.0,
-      "metrics": {
-        "stars": 7038,
-        "forks": 314,
-        "open_issues": 0,
-        "pushed_at": "2026-08-13T15:12:25Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 98,
-        "codex_fit": 98,
-        "evidence_quality": 78,
-        "docs_examples": 94
-      },
-      "score": 93.5,
-      "confidence": 78,
-      "score_breakdown": {
-        "design_fit": 98,
-        "codex_fit": 98,
-        "public_feedback": 83,
-        "maintenance": 91,
-        "docs_examples": 94,
-        "adoption_proxy": 89
-      },
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "codex-imagegen",
@@ -350,10 +177,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 123463,
-        "forks": 19006,
-        "open_issues": 16733,
-        "pushed_at": "2026-09-12T05:04:25Z",
+        "stars": 123681,
+        "forks": 19059,
+        "open_issues": 16888,
+        "pushed_at": "2026-09-13T06:15:47Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -373,14 +200,187 @@
         "docs_examples": 91,
         "adoption_proxy": 100
       },
-      "rank": 4,
+      "rank": 2,
       "previous_rank": 4,
-      "rank_delta": 0,
+      "rank_delta": 2,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
+    },
+    {
+      "id": "brandkit",
+      "name": "Brandkit",
+      "repo": "Leonxlnx/taste-skill",
+      "skill_path": "skills/brandkit/SKILL.md",
+      "download_url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit",
+      "focus": "Brand identity system boards",
+      "style": [
+        "premium minimal",
+        "cinematic",
+        "luxury",
+        "dark tech",
+        "cultural identity"
+      ],
+      "designer": "Brand designers, creative directors, and independent studios",
+      "summary": "Creates brand-guideline boards, logo directions, palette and type systems, packaging, and identity applications as one visual world.",
+      "scenarios": [
+        "Brand pitches",
+        "Logo direction studies",
+        "Identity boards",
+        "Concept launches"
+      ],
+      "tips": [
+        "Define the brand tension and symbolic idea first",
+        "Explore one logo logic per round",
+        "Test the system across physical and digital applications"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/brandkit/SKILL.md"
+        },
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Leonxlnx/taste-skill#image-generation-skills"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "A third-party production-readiness review scores the host project well for reliability and standards while flagging privacy documentation; repository adoption covers the whole suite.",
+          "url": "https://legit.show/s/gh-leonxlnx-taste-skill",
+          "strength": 4
+        },
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Portable SKILL.md; works with Codex image generation",
+      "metric_scope": "multi-skill",
+      "scope_factor": 0.55,
+      "metrics": {
+        "stars": 86654,
+        "forks": 5911,
+        "open_issues": 66,
+        "pushed_at": "2026-08-24T15:23:56Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 96,
+        "codex_fit": 91,
+        "evidence_quality": 86,
+        "docs_examples": 92
+      },
+      "score": 93.4,
+      "confidence": 82,
+      "score_breakdown": {
+        "design_fit": 96,
+        "codex_fit": 91,
+        "public_feedback": 92,
+        "maintenance": 95,
+        "docs_examples": 92,
+        "adoption_proxy": 100
+      },
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_delta": -1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-09-13"
+    },
+    {
+      "id": "gc-minimal-zine-poster",
+      "name": "GC Minimal Zine Poster",
+      "repo": "LiamGvchi/gc-minimal-zine-poster",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+      "focus": "Minimal editorial poster",
+      "style": [
+        "Japanese/Korean indie zine",
+        "aged paper",
+        "risograph",
+        "negative space"
+      ],
+      "designer": "Editorial designers, cultural creators, and independent publishers",
+      "summary": "Turns a theme, sentence, article, or photo into a vertical 3:5 paper poster built around one small visual anchor and one saturated ink color.",
+      "scenarios": [
+        "Bookstore and exhibition posters",
+        "Podcast or article covers",
+        "Vertical social artwork",
+        "Poetic personal work"
+      ],
+      "tips": [
+        "Start with one proposition rather than a full article",
+        "Name one accent color and paper mood",
+        "Check whether the color anchor survives at thumbnail size"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster#examples"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "A single-skill repository gained strong stars and forks quickly; OSSInsight provides a second, auditable activity view.",
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+          "strength": 4
+        },
+        {
+          "type": "analytics",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://ossinsight.io/analyze/LiamGvchi/gc-minimal-zine-poster",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Native Codex workflow using built-in imagegen",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 7051,
+        "forks": 314,
+        "open_issues": 0,
+        "pushed_at": "2026-08-13T15:12:25Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 98,
+        "codex_fit": 98,
+        "evidence_quality": 78,
+        "docs_examples": 94
+      },
+      "score": 93.4,
+      "confidence": 78,
+      "score_breakdown": {
+        "design_fit": 98,
+        "codex_fit": 98,
+        "public_feedback": 83,
+        "maintenance": 90,
+        "docs_examples": 94,
+        "adoption_proxy": 89
+      },
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_delta": -1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12356,
-        "forks": 1495,
+        "stars": 12375,
+        "forks": 1497,
         "open_issues": 18,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -456,7 +456,7 @@
         "design_fit": 94,
         "codex_fit": 96,
         "public_feedback": 89,
-        "maintenance": 81,
+        "maintenance": 80,
         "docs_examples": 95,
         "adoption_proxy": 94
       },
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -515,7 +515,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5324,
+        "stars": 5337,
         "forks": 459,
         "open_issues": 3,
         "pushed_at": "2026-09-09T14:36:03Z",
@@ -545,7 +545,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -599,8 +599,8 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8758,
-        "forks": 851,
+        "stars": 8782,
+        "forks": 854,
         "open_issues": 63,
         "pushed_at": "2026-08-23T08:53:57Z",
         "license": "Apache-2.0",
@@ -618,7 +618,7 @@
         "design_fit": 93,
         "codex_fit": 76,
         "public_feedback": 82,
-        "maintenance": 95,
+        "maintenance": 94,
         "docs_examples": 97,
         "adoption_proxy": 85
       },
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "ink-wash-poster",
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-12"
+      "last_top10_at": "2026-09-13"
     },
     {
       "id": "photo-riso-poster",
@@ -985,7 +985,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 367,
+        "stars": 370,
         "forks": 48,
         "open_issues": 1,
         "pushed_at": "2026-08-19T05:25:44Z",
@@ -998,13 +998,13 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 77.7,
+      "score": 77.6,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
         "codex_fit": 86,
         "public_feedback": 53,
-        "maintenance": 93,
+        "maintenance": 92,
         "docs_examples": 82,
         "adoption_proxy": 60
       },
@@ -1081,7 +1081,7 @@
         "design_fit": 90,
         "codex_fit": 94,
         "public_feedback": 39,
-        "maintenance": 67,
+        "maintenance": 66,
         "docs_examples": 82,
         "adoption_proxy": 34
       },
@@ -1163,8 +1163,8 @@
         "adoption_proxy": 32
       },
       "rank": 14,
-      "previous_rank": 16,
-      "rank_delta": 2,
+      "previous_rank": 14,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -1215,8 +1215,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9223,
-        "forks": 1031,
+        "stars": 9238,
+        "forks": 1030,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1228,19 +1228,19 @@
         "evidence_quality": 30,
         "docs_examples": 55
       },
-      "score": 73.6,
+      "score": 73.5,
       "confidence": 34,
       "score_breakdown": {
         "design_fit": 82,
         "codex_fit": 76,
         "public_feedback": 58,
-        "maintenance": 86,
+        "maintenance": 85,
         "docs_examples": 55,
         "adoption_proxy": 93
       },
       "rank": 15,
-      "previous_rank": 14,
-      "rank_delta": -1,
+      "previous_rank": 15,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "ever_top10": false,
@@ -1291,7 +1291,7 @@
       "metric_scope": "single-project",
       "scope_factor": 0.8,
       "metrics": {
-        "stars": 298,
+        "stars": 300,
         "forks": 15,
         "open_issues": 0,
         "pushed_at": "2026-05-25T05:27:52Z",
@@ -1304,7 +1304,7 @@
         "evidence_quality": 47,
         "docs_examples": 84
       },
-      "score": 71.8,
+      "score": 71.7,
       "confidence": 51,
       "score_breakdown": {
         "design_fit": 76,
@@ -1315,8 +1315,8 @@
         "adoption_proxy": 52
       },
       "rank": 16,
-      "previous_rank": 15,
-      "rank_delta": -1,
+      "previous_rank": 16,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
@@ -1368,7 +1368,7 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1983,
+        "stars": 1985,
         "forks": 277,
         "open_issues": 43,
         "pushed_at": "2026-09-11T09:52:00Z",
