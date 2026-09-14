@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-13T06:18:40.338062Z",
-  "ranking_date": "2026-09-13",
+  "updated_at": "2026-09-14T06:27:42.950461Z",
+  "ranking_date": "2026-09-14",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -86,9 +86,9 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5820,
-        "forks": 285,
-        "open_issues": 6,
+        "stars": 5846,
+        "forks": 286,
+        "open_issues": 2,
         "pushed_at": "2026-09-13T05:33:16Z",
         "license": "MIT",
         "archived": false
@@ -116,7 +116,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "codex-imagegen",
@@ -177,10 +177,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 123681,
-        "forks": 19059,
-        "open_issues": 16888,
-        "pushed_at": "2026-09-13T06:15:47Z",
+        "stars": 123927,
+        "forks": 19103,
+        "open_issues": 17034,
+        "pushed_at": "2026-09-14T04:37:18Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -201,13 +201,13 @@
         "adoption_proxy": 100
       },
       "rank": 2,
-      "previous_rank": 4,
-      "rank_delta": 2,
+      "previous_rank": 2,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "brandkit",
@@ -266,8 +266,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 86654,
-        "forks": 5911,
+        "stars": 86932,
+        "forks": 5926,
         "open_issues": 66,
         "pushed_at": "2026-08-24T15:23:56Z",
         "license": "MIT",
@@ -285,18 +285,18 @@
         "design_fit": 96,
         "codex_fit": 91,
         "public_feedback": 92,
-        "maintenance": 95,
+        "maintenance": 94,
         "docs_examples": 92,
         "adoption_proxy": 100
       },
       "rank": 3,
-      "previous_rank": 2,
-      "rank_delta": -1,
+      "previous_rank": 3,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -350,8 +350,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7051,
-        "forks": 314,
+        "stars": 7062,
+        "forks": 313,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
         "license": "MIT",
@@ -374,13 +374,13 @@
         "adoption_proxy": 89
       },
       "rank": 4,
-      "previous_rank": 3,
-      "rank_delta": -1,
+      "previous_rank": 4,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12375,
-        "forks": 1497,
+        "stars": 12401,
+        "forks": 1499,
         "open_issues": 18,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -450,7 +450,7 @@
         "evidence_quality": 84,
         "docs_examples": 95
       },
-      "score": 91.5,
+      "score": 91.4,
       "confidence": 82,
       "score_breakdown": {
         "design_fit": 94,
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -515,8 +515,8 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5337,
-        "forks": 459,
+        "stars": 5358,
+        "forks": 460,
         "open_issues": 3,
         "pushed_at": "2026-09-09T14:36:03Z",
         "license": "MIT",
@@ -545,7 +545,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -599,9 +599,9 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8782,
+        "stars": 8795,
         "forks": 854,
-        "open_issues": 63,
+        "open_issues": 64,
         "pushed_at": "2026-08-23T08:53:57Z",
         "license": "Apache-2.0",
         "archived": false
@@ -612,7 +612,7 @@
         "evidence_quality": 80,
         "docs_examples": 97
       },
-      "score": 87.3,
+      "score": 87.2,
       "confidence": 79,
       "score_breakdown": {
         "design_fit": 93,
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -677,7 +677,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 108,
+        "stars": 109,
         "forks": 10,
         "open_issues": 0,
         "pushed_at": "2026-09-05T21:33:18Z",
@@ -690,7 +690,7 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 84.0,
+      "score": 83.9,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "ink-wash-poster",
@@ -767,7 +767,7 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 80.8,
+      "score": 80.7,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -831,10 +831,10 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.75,
       "metrics": {
-        "stars": 136,
+        "stars": 137,
         "forks": 14,
-        "open_issues": 25,
-        "pushed_at": "2026-09-11T05:19:02Z",
+        "open_issues": 20,
+        "pushed_at": "2026-09-13T19:04:47Z",
         "license": "MIT",
         "archived": false
       },
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-13"
+      "last_top10_at": "2026-09-14"
     },
     {
       "id": "photo-riso-poster",
@@ -921,7 +921,7 @@
         "evidence_quality": 34,
         "docs_examples": 80
       },
-      "score": 79.0,
+      "score": 78.9,
       "confidence": 42,
       "score_breakdown": {
         "design_fit": 91,
@@ -985,7 +985,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 370,
+        "stars": 373,
         "forks": 48,
         "open_issues": 1,
         "pushed_at": "2026-08-19T05:25:44Z",
@@ -998,7 +998,7 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 77.6,
+      "score": 77.5,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
@@ -1215,8 +1215,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9238,
-        "forks": 1030,
+        "stars": 9255,
+        "forks": 1032,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1291,7 +1291,7 @@
       "metric_scope": "single-project",
       "scope_factor": 0.8,
       "metrics": {
-        "stars": 300,
+        "stars": 301,
         "forks": 15,
         "open_issues": 0,
         "pushed_at": "2026-05-25T05:27:52Z",
@@ -1368,10 +1368,10 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1985,
+        "stars": 1986,
         "forks": 277,
-        "open_issues": 43,
-        "pushed_at": "2026-09-11T09:52:00Z",
+        "open_issues": 44,
+        "pushed_at": "2026-09-14T04:28:26Z",
         "license": "AGPL-3.0",
         "archived": false
       },
