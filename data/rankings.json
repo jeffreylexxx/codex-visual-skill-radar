@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T06:27:42.950461Z",
-  "ranking_date": "2026-09-14",
+  "updated_at": "2026-09-15T06:12:38.358723Z",
+  "ranking_date": "2026-09-15",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -86,7 +86,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5846,
+        "stars": 5885,
         "forks": 286,
         "open_issues": 2,
         "pushed_at": "2026-09-13T05:33:16Z",
@@ -107,7 +107,7 @@
         "public_feedback": 91,
         "maintenance": 100,
         "docs_examples": 98,
-        "adoption_proxy": 87
+        "adoption_proxy": 88
       },
       "rank": 1,
       "previous_rank": 1,
@@ -116,7 +116,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "codex-imagegen",
@@ -177,10 +177,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 123927,
-        "forks": 19103,
-        "open_issues": 17034,
-        "pushed_at": "2026-09-14T04:37:18Z",
+        "stars": 124203,
+        "forks": 19178,
+        "open_issues": 17184,
+        "pushed_at": "2026-09-15T05:44:55Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -207,7 +207,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "brandkit",
@@ -266,8 +266,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 86932,
-        "forks": 5926,
+        "stars": 87216,
+        "forks": 5941,
         "open_issues": 66,
         "pushed_at": "2026-08-24T15:23:56Z",
         "license": "MIT",
@@ -279,7 +279,7 @@
         "evidence_quality": 86,
         "docs_examples": 92
       },
-      "score": 93.4,
+      "score": 93.3,
       "confidence": 82,
       "score_breakdown": {
         "design_fit": 96,
@@ -296,7 +296,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -350,7 +350,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7062,
+        "stars": 7076,
         "forks": 313,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
@@ -363,13 +363,13 @@
         "evidence_quality": 78,
         "docs_examples": 94
       },
-      "score": 93.4,
+      "score": 93.3,
       "confidence": 78,
       "score_breakdown": {
         "design_fit": 98,
         "codex_fit": 98,
         "public_feedback": 83,
-        "maintenance": 90,
+        "maintenance": 89,
         "docs_examples": 94,
         "adoption_proxy": 89
       },
@@ -380,7 +380,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12401,
-        "forks": 1499,
+        "stars": 12423,
+        "forks": 1500,
         "open_issues": 18,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -467,85 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
-    },
-    {
-      "id": "wuyoscar-gpt-image2",
-      "name": "GPT Image2 Skill & Prompt Gallery",
-      "repo": "wuyoscar/GPT-Image2-Skill",
-      "skill_path": "SKILL.md / skill package",
-      "download_url": "https://github.com/wuyoscar/GPT-Image2-Skill",
-      "focus": "Searchable prompt gallery and image workflow",
-      "style": [
-        "advertising",
-        "poster",
-        "research figure",
-        "product visual",
-        "prompt gallery"
-      ],
-      "designer": "Visual creators who like selecting a direction from examples",
-      "summary": "Combines a searchable prompt gallery, installable skill, and CLI, making it useful for choosing a composition from many examples.",
-      "scenarios": [
-        "Style discovery",
-        "Prompt adaptation",
-        "Commercial posters",
-        "Research illustration"
-      ],
-      "tips": [
-        "Lock a composition before replacing the subject",
-        "Do not blend several reference styles",
-        "Save successful prompts as a team recipe"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/wuyoscar/GPT-Image2-Skill"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "The repository has thousands of stars, but most public feedback concerns the prompt library rather than a single poster workflow.",
-          "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Repository identifies a Codex skill path",
-      "metric_scope": "single-suite",
-      "scope_factor": 0.85,
-      "metrics": {
-        "stars": 5358,
-        "forks": 460,
-        "open_issues": 3,
-        "pushed_at": "2026-09-09T14:36:03Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 88,
-        "codex_fit": 88,
-        "evidence_quality": 65,
-        "docs_examples": 94
-      },
-      "score": 87.7,
-      "confidence": 65,
-      "score_breakdown": {
-        "design_fit": 88,
-        "codex_fit": 88,
-        "public_feedback": 75,
-        "maintenance": 100,
-        "docs_examples": 94,
-        "adoption_proxy": 87
-      },
-      "rank": 6,
-      "previous_rank": 6,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -599,10 +521,10 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8795,
-        "forks": 854,
-        "open_issues": 64,
-        "pushed_at": "2026-08-23T08:53:57Z",
+        "stars": 8816,
+        "forks": 855,
+        "open_issues": 63,
+        "pushed_at": "2026-09-15T03:36:24Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -612,24 +534,102 @@
         "evidence_quality": 80,
         "docs_examples": 97
       },
-      "score": 87.2,
+      "score": 88.1,
       "confidence": 79,
       "score_breakdown": {
         "design_fit": 93,
         "codex_fit": 76,
         "public_feedback": 82,
-        "maintenance": 94,
+        "maintenance": 100,
         "docs_examples": 97,
         "adoption_proxy": 85
       },
-      "rank": 7,
+      "rank": 6,
       "previous_rank": 7,
-      "rank_delta": 0,
+      "rank_delta": 1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
+    },
+    {
+      "id": "wuyoscar-gpt-image2",
+      "name": "GPT Image2 Skill & Prompt Gallery",
+      "repo": "wuyoscar/GPT-Image2-Skill",
+      "skill_path": "SKILL.md / skill package",
+      "download_url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+      "focus": "Searchable prompt gallery and image workflow",
+      "style": [
+        "advertising",
+        "poster",
+        "research figure",
+        "product visual",
+        "prompt gallery"
+      ],
+      "designer": "Visual creators who like selecting a direction from examples",
+      "summary": "Combines a searchable prompt gallery, installable skill, and CLI, making it useful for choosing a composition from many examples.",
+      "scenarios": [
+        "Style discovery",
+        "Prompt adaptation",
+        "Commercial posters",
+        "Research illustration"
+      ],
+      "tips": [
+        "Lock a composition before replacing the subject",
+        "Do not blend several reference styles",
+        "Save successful prompts as a team recipe"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/wuyoscar/GPT-Image2-Skill"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "The repository has thousands of stars, but most public feedback concerns the prompt library rather than a single poster workflow.",
+          "url": "https://github.com/wuyoscar/GPT-Image2-Skill",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Repository identifies a Codex skill path",
+      "metric_scope": "single-suite",
+      "scope_factor": 0.85,
+      "metrics": {
+        "stars": 5385,
+        "forks": 460,
+        "open_issues": 3,
+        "pushed_at": "2026-09-09T14:36:03Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 88,
+        "codex_fit": 88,
+        "evidence_quality": 65,
+        "docs_examples": 94
+      },
+      "score": 87.7,
+      "confidence": 65,
+      "score_breakdown": {
+        "design_fit": 88,
+        "codex_fit": 88,
+        "public_feedback": 75,
+        "maintenance": 100,
+        "docs_examples": 94,
+        "adoption_proxy": 87
+      },
+      "rank": 7,
+      "previous_rank": 6,
+      "rank_delta": -1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -696,7 +696,7 @@
         "design_fit": 92,
         "codex_fit": 96,
         "public_feedback": 45,
-        "maintenance": 100,
+        "maintenance": 99,
         "docs_examples": 84,
         "adoption_proxy": 45
       },
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "ink-wash-poster",
@@ -773,7 +773,7 @@
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 41,
-        "maintenance": 86,
+        "maintenance": 85,
         "docs_examples": 85,
         "adoption_proxy": 39
       },
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-14"
+      "last_top10_at": "2026-09-15"
     },
     {
       "id": "photo-riso-poster",
@@ -927,7 +927,7 @@
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 33,
-        "maintenance": 87,
+        "maintenance": 86,
         "docs_examples": 80,
         "adoption_proxy": 32
       },
@@ -985,7 +985,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 373,
+        "stars": 376,
         "forks": 48,
         "open_issues": 1,
         "pushed_at": "2026-08-19T05:25:44Z",
@@ -1004,7 +1004,7 @@
         "design_fit": 78,
         "codex_fit": 86,
         "public_feedback": 53,
-        "maintenance": 92,
+        "maintenance": 91,
         "docs_examples": 82,
         "adoption_proxy": 60
       },
@@ -1075,7 +1075,7 @@
         "evidence_quality": 43,
         "docs_examples": 82
       },
-      "score": 76.5,
+      "score": 76.4,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 90,
@@ -1215,7 +1215,7 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9255,
+        "stars": 9276,
         "forks": 1032,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
@@ -1368,10 +1368,10 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1986,
+        "stars": 1983,
         "forks": 277,
         "open_issues": 44,
-        "pushed_at": "2026-09-14T04:28:26Z",
+        "pushed_at": "2026-09-15T02:12:22Z",
         "license": "AGPL-3.0",
         "archived": false
       },
