@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-15T06:12:38.358723Z",
-  "ranking_date": "2026-09-15",
+  "updated_at": "2026-09-16T06:09:54.441246Z",
+  "ranking_date": "2026-09-16",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -86,8 +86,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5885,
-        "forks": 286,
+        "stars": 5926,
+        "forks": 290,
         "open_issues": 2,
         "pushed_at": "2026-09-13T05:33:16Z",
         "license": "MIT",
@@ -116,7 +116,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "codex-imagegen",
@@ -177,10 +177,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 124203,
-        "forks": 19178,
-        "open_issues": 17184,
-        "pushed_at": "2026-09-15T05:44:55Z",
+        "stars": 124529,
+        "forks": 19249,
+        "open_issues": 17345,
+        "pushed_at": "2026-09-16T05:59:47Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -207,7 +207,91 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
+    },
+    {
+      "id": "gc-minimal-zine-poster",
+      "name": "GC Minimal Zine Poster",
+      "repo": "LiamGvchi/gc-minimal-zine-poster",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+      "focus": "Minimal editorial poster",
+      "style": [
+        "Japanese/Korean indie zine",
+        "aged paper",
+        "risograph",
+        "negative space"
+      ],
+      "designer": "Editorial designers, cultural creators, and independent publishers",
+      "summary": "Turns a theme, sentence, article, or photo into a vertical 3:5 paper poster built around one small visual anchor and one saturated ink color.",
+      "scenarios": [
+        "Bookstore and exhibition posters",
+        "Podcast or article covers",
+        "Vertical social artwork",
+        "Poetic personal work"
+      ],
+      "tips": [
+        "Start with one proposition rather than a full article",
+        "Name one accent color and paper mood",
+        "Check whether the color anchor survives at thumbnail size"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster#examples"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "A single-skill repository gained strong stars and forks quickly; OSSInsight provides a second, auditable activity view.",
+          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+          "strength": 4
+        },
+        {
+          "type": "analytics",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://ossinsight.io/analyze/LiamGvchi/gc-minimal-zine-poster",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Native Codex workflow using built-in imagegen",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 7081,
+        "forks": 313,
+        "open_issues": 0,
+        "pushed_at": "2026-08-13T15:12:25Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 98,
+        "codex_fit": 98,
+        "evidence_quality": 78,
+        "docs_examples": 94
+      },
+      "score": 93.3,
+      "confidence": 78,
+      "score_breakdown": {
+        "design_fit": 98,
+        "codex_fit": 98,
+        "public_feedback": 83,
+        "maintenance": 89,
+        "docs_examples": 94,
+        "adoption_proxy": 89
+      },
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_delta": 1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "brandkit",
@@ -266,9 +350,9 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 87216,
-        "forks": 5941,
-        "open_issues": 66,
+        "stars": 87473,
+        "forks": 5956,
+        "open_issues": 67,
         "pushed_at": "2026-08-24T15:23:56Z",
         "license": "MIT",
         "archived": false
@@ -279,7 +363,7 @@
         "evidence_quality": 86,
         "docs_examples": 92
       },
-      "score": 93.3,
+      "score": 93.2,
       "confidence": 82,
       "score_breakdown": {
         "design_fit": 96,
@@ -289,98 +373,14 @@
         "docs_examples": 92,
         "adoption_proxy": 100
       },
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-09-15"
-    },
-    {
-      "id": "gc-minimal-zine-poster",
-      "name": "GC Minimal Zine Poster",
-      "repo": "LiamGvchi/gc-minimal-zine-poster",
-      "skill_path": "SKILL.md",
-      "download_url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
-      "focus": "Minimal editorial poster",
-      "style": [
-        "Japanese/Korean indie zine",
-        "aged paper",
-        "risograph",
-        "negative space"
-      ],
-      "designer": "Editorial designers, cultural creators, and independent publishers",
-      "summary": "Turns a theme, sentence, article, or photo into a vertical 3:5 paper poster built around one small visual anchor and one saturated ink color.",
-      "scenarios": [
-        "Bookstore and exhibition posters",
-        "Podcast or article covers",
-        "Vertical social artwork",
-        "Poetic personal work"
-      ],
-      "tips": [
-        "Start with one proposition rather than a full article",
-        "Name one accent color and paper mood",
-        "Check whether the color anchor survives at thumbnail size"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster#examples"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "A single-skill repository gained strong stars and forks quickly; OSSInsight provides a second, auditable activity view.",
-          "url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
-          "strength": 4
-        },
-        {
-          "type": "analytics",
-          "label": "Public evidence",
-          "summary": "Supplementary source; open the original link to review its full context.",
-          "url": "https://ossinsight.io/analyze/LiamGvchi/gc-minimal-zine-poster",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Native Codex workflow using built-in imagegen",
-      "metric_scope": "single-skill",
-      "scope_factor": 1.0,
-      "metrics": {
-        "stars": 7076,
-        "forks": 313,
-        "open_issues": 0,
-        "pushed_at": "2026-08-13T15:12:25Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 98,
-        "codex_fit": 98,
-        "evidence_quality": 78,
-        "docs_examples": 94
-      },
-      "score": 93.3,
-      "confidence": 78,
-      "score_breakdown": {
-        "design_fit": 98,
-        "codex_fit": 98,
-        "public_feedback": 83,
-        "maintenance": 89,
-        "docs_examples": 94,
-        "adoption_proxy": 89
-      },
       "rank": 4,
-      "previous_rank": 4,
-      "rank_delta": 0,
+      "previous_rank": 3,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12423,
-        "forks": 1500,
+        "stars": 12441,
+        "forks": 1501,
         "open_issues": 18,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -450,7 +450,7 @@
         "evidence_quality": 84,
         "docs_examples": 95
       },
-      "score": 91.4,
+      "score": 91.3,
       "confidence": 82,
       "score_breakdown": {
         "design_fit": 94,
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -521,8 +521,8 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8816,
-        "forks": 855,
+        "stars": 8847,
+        "forks": 857,
         "open_issues": 63,
         "pushed_at": "2026-09-15T03:36:24Z",
         "license": "Apache-2.0",
@@ -542,16 +542,16 @@
         "public_feedback": 82,
         "maintenance": 100,
         "docs_examples": 97,
-        "adoption_proxy": 85
+        "adoption_proxy": 86
       },
       "rank": 6,
-      "previous_rank": 7,
-      "rank_delta": 1,
+      "previous_rank": 6,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -599,8 +599,8 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5385,
-        "forks": 460,
+        "stars": 5401,
+        "forks": 461,
         "open_issues": 3,
         "pushed_at": "2026-09-09T14:36:03Z",
         "license": "MIT",
@@ -612,7 +612,7 @@
         "evidence_quality": 65,
         "docs_examples": 94
       },
-      "score": 87.7,
+      "score": 87.8,
       "confidence": 65,
       "score_breakdown": {
         "design_fit": 88,
@@ -623,13 +623,13 @@
         "adoption_proxy": 87
       },
       "rank": 7,
-      "previous_rank": 6,
-      "rank_delta": -1,
+      "previous_rank": 7,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -690,7 +690,7 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 83.9,
+      "score": 83.8,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "ink-wash-poster",
@@ -767,7 +767,7 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 80.7,
+      "score": 80.6,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-09-15"
+      "last_top10_at": "2026-09-16"
     },
     {
       "id": "photo-riso-poster",
@@ -921,7 +921,7 @@
         "evidence_quality": 34,
         "docs_examples": 80
       },
-      "score": 78.9,
+      "score": 78.8,
       "confidence": 42,
       "score_breakdown": {
         "design_fit": 91,
@@ -998,7 +998,7 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 77.5,
+      "score": 77.4,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
@@ -1215,8 +1215,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9276,
-        "forks": 1032,
+        "stars": 9292,
+        "forks": 1035,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1228,13 +1228,13 @@
         "evidence_quality": 30,
         "docs_examples": 55
       },
-      "score": 73.5,
+      "score": 73.4,
       "confidence": 34,
       "score_breakdown": {
         "design_fit": 82,
         "codex_fit": 76,
         "public_feedback": 58,
-        "maintenance": 85,
+        "maintenance": 84,
         "docs_examples": 55,
         "adoption_proxy": 93
       },
@@ -1304,13 +1304,13 @@
         "evidence_quality": 47,
         "docs_examples": 84
       },
-      "score": 71.7,
+      "score": 71.6,
       "confidence": 51,
       "score_breakdown": {
         "design_fit": 76,
         "codex_fit": 82,
         "public_feedback": 49,
-        "maintenance": 68,
+        "maintenance": 67,
         "docs_examples": 84,
         "adoption_proxy": 52
       },
@@ -1368,10 +1368,10 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1983,
-        "forks": 277,
+        "stars": 1984,
+        "forks": 278,
         "open_issues": 44,
-        "pushed_at": "2026-09-15T02:12:22Z",
+        "pushed_at": "2026-09-15T07:41:58Z",
         "license": "AGPL-3.0",
         "archived": false
       },
