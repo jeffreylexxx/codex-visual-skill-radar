@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05T07:11:43.570652Z",
-  "ranking_date": "2026-10-05",
+  "updated_at": "2026-10-06T07:38:35.921835Z",
+  "ranking_date": "2026-10-06",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -79,8 +79,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 92656,
-        "forks": 6289,
+        "stars": 92931,
+        "forks": 6305,
         "open_issues": 73,
         "pushed_at": "2026-09-26T09:01:50Z",
         "license": "MIT",
@@ -98,7 +98,7 @@
         "design_fit": 96,
         "codex_fit": 91,
         "public_feedback": 92,
-        "maintenance": 100,
+        "maintenance": 99,
         "docs_examples": 92,
         "adoption_proxy": 100
       },
@@ -109,7 +109,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "codex-ppt",
@@ -175,7 +175,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 6334,
+        "stars": 6354,
         "forks": 310,
         "open_issues": 1,
         "pushed_at": "2026-10-02T13:41:19Z",
@@ -205,7 +205,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "codex-imagegen",
@@ -266,10 +266,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 127885,
-        "forks": 20022,
-        "open_issues": 20664,
-        "pushed_at": "2026-10-05T02:22:03Z",
+        "stars": 127986,
+        "forks": 20045,
+        "open_issues": 20838,
+        "pushed_at": "2026-10-06T03:59:11Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -296,7 +296,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -350,8 +350,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7259,
-        "forks": 317,
+        "stars": 7265,
+        "forks": 318,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
         "license": "MIT",
@@ -380,7 +380,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,8 +437,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12743,
-        "forks": 1528,
+        "stars": 12750,
+        "forks": 1531,
         "open_issues": 19,
         "pushed_at": "2026-07-12T14:36:31Z",
         "license": "MIT",
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -515,8 +515,8 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5631,
-        "forks": 470,
+        "stars": 5632,
+        "forks": 471,
         "open_issues": 1,
         "pushed_at": "2026-09-30T11:54:50Z",
         "license": "MIT",
@@ -545,7 +545,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -599,8 +599,8 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 9009,
-        "forks": 868,
+        "stars": 9014,
+        "forks": 871,
         "open_issues": 69,
         "pushed_at": "2026-09-15T03:36:24Z",
         "license": "Apache-2.0",
@@ -612,7 +612,7 @@
         "evidence_quality": 80,
         "docs_examples": 97
       },
-      "score": 87.3,
+      "score": 87.2,
       "confidence": 79,
       "score_breakdown": {
         "design_fit": 93,
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -677,7 +677,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 118,
+        "stars": 119,
         "forks": 12,
         "open_issues": 0,
         "pushed_at": "2026-09-05T21:33:18Z",
@@ -690,13 +690,13 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 82.7,
+      "score": 82.6,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
         "codex_fit": 96,
         "public_feedback": 46,
-        "maintenance": 91,
+        "maintenance": 90,
         "docs_examples": 84,
         "adoption_proxy": 46
       },
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "ink-wash-poster",
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -861,84 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-05"
-    },
-    {
-      "id": "gpt-image2-ecommerce",
-      "name": "GPT Image2 E-commerce",
-      "repo": "buluslan/gpt-image2-ecommerce",
-      "skill_path": "SKILL.md",
-      "download_url": "https://github.com/buluslan/gpt-image2-ecommerce",
-      "focus": "E-commerce advertising and product scenes",
-      "style": [
-        "e-commerce",
-        "product ad",
-        "25 scene templates",
-        "commercial photo"
-      ],
-      "designer": "E-commerce brand designers and operations teams",
-      "summary": "Provides multiple scene templates for product and campaign imagery, making it useful for quick key visuals but less focused on editorial poster systems.",
-      "scenarios": [
-        "Product hero",
-        "Seasonal campaign",
-        "Lifestyle scene",
-        "Multi-platform ad sizes"
-      ],
-      "tips": [
-        "Repeat product appearance as an invariant",
-        "Fix lighting and camera language across a campaign",
-        "Add prices and dense copy in post"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/buluslan/gpt-image2-ecommerce"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "The commercial task is specific, while independent third-party reviews remain sparse.",
-          "url": "https://github.com/buluslan/gpt-image2-ecommerce",
-          "strength": 2
-        }
-      ],
-      "compatibility": "Calls imagegen through Codex CLI",
-      "metric_scope": "single-skill",
-      "scope_factor": 1.0,
-      "metrics": {
-        "stars": 405,
-        "forks": 53,
-        "open_issues": 1,
-        "pushed_at": "2026-09-17T09:05:23Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 78,
-        "codex_fit": 86,
-        "evidence_quality": 48,
-        "docs_examples": 82
-      },
-      "score": 78.2,
-      "confidence": 52,
-      "score_breakdown": {
-        "design_fit": 78,
-        "codex_fit": 86,
-        "public_feedback": 54,
-        "maintenance": 96,
-        "docs_examples": 82,
-        "adoption_proxy": 61
-      },
-      "rank": 11,
-      "previous_rank": 11,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": false,
-      "last_top10_at": null
+      "last_top10_at": "2026-10-06"
     },
     {
       "id": "photo-riso-poster",
@@ -985,7 +908,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 48,
+        "stars": 50,
         "forks": 2,
         "open_issues": 0,
         "pushed_at": "2026-08-04T02:06:40Z",
@@ -1006,16 +929,93 @@
         "public_feedback": 34,
         "maintenance": 80,
         "docs_examples": 80,
-        "adoption_proxy": 34
+        "adoption_proxy": 35
       },
-      "rank": 12,
+      "rank": 11,
       "previous_rank": 12,
-      "rank_delta": 0,
+      "rank_delta": 1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
       "last_top10_at": "2026-08-28"
+    },
+    {
+      "id": "gpt-image2-ecommerce",
+      "name": "GPT Image2 E-commerce",
+      "repo": "buluslan/gpt-image2-ecommerce",
+      "skill_path": "SKILL.md",
+      "download_url": "https://github.com/buluslan/gpt-image2-ecommerce",
+      "focus": "E-commerce advertising and product scenes",
+      "style": [
+        "e-commerce",
+        "product ad",
+        "25 scene templates",
+        "commercial photo"
+      ],
+      "designer": "E-commerce brand designers and operations teams",
+      "summary": "Provides multiple scene templates for product and campaign imagery, making it useful for quick key visuals but less focused on editorial poster systems.",
+      "scenarios": [
+        "Product hero",
+        "Seasonal campaign",
+        "Lifestyle scene",
+        "Multi-platform ad sizes"
+      ],
+      "tips": [
+        "Repeat product appearance as an invariant",
+        "Fix lighting and camera language across a campaign",
+        "Add prices and dense copy in post"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/buluslan/gpt-image2-ecommerce"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "The commercial task is specific, while independent third-party reviews remain sparse.",
+          "url": "https://github.com/buluslan/gpt-image2-ecommerce",
+          "strength": 2
+        }
+      ],
+      "compatibility": "Calls imagegen through Codex CLI",
+      "metric_scope": "single-skill",
+      "scope_factor": 1.0,
+      "metrics": {
+        "stars": 404,
+        "forks": 53,
+        "open_issues": 1,
+        "pushed_at": "2026-09-17T09:05:23Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 78,
+        "codex_fit": 86,
+        "evidence_quality": 48,
+        "docs_examples": 82
+      },
+      "score": 78.1,
+      "confidence": 52,
+      "score_breakdown": {
+        "design_fit": 78,
+        "codex_fit": 86,
+        "public_feedback": 54,
+        "maintenance": 95,
+        "docs_examples": 82,
+        "adoption_proxy": 61
+      },
+      "rank": 12,
+      "previous_rank": 11,
+      "rank_delta": -1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": false,
+      "last_top10_at": null
     },
     {
       "id": "cvpr-poster",
@@ -1152,7 +1152,7 @@
         "evidence_quality": 62,
         "docs_examples": 76
       },
-      "score": 74.4,
+      "score": 74.3,
       "confidence": 60,
       "score_breakdown": {
         "design_fit": 72,
@@ -1215,8 +1215,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9695,
-        "forks": 1079,
+        "stars": 9722,
+        "forks": 1080,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1234,7 +1234,7 @@
         "design_fit": 82,
         "codex_fit": 76,
         "public_feedback": 59,
-        "maintenance": 79,
+        "maintenance": 78,
         "docs_examples": 55,
         "adoption_proxy": 94
       },
@@ -1369,7 +1369,7 @@
       "scope_factor": 0.35,
       "metrics": {
         "stars": 2001,
-        "forks": 280,
+        "forks": 281,
         "open_issues": 44,
         "pushed_at": "2026-09-24T03:27:36Z",
         "license": "AGPL-3.0",

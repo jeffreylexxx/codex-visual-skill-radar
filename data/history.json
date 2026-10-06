@@ -3135,6 +3135,61 @@
         "engineering-figure-agent": 71.1,
         "openakita-poster-maker": 69.4
       }
+    },
+    {
+      "date": "2026-10-06",
+      "updated_at": "2026-10-06T07:38:35.921835Z",
+      "source_status": "github-api",
+      "top10": [
+        "brandkit",
+        "codex-ppt",
+        "codex-imagegen",
+        "gc-minimal-zine-poster",
+        "garden-gpt-image-2",
+        "wuyoscar-gpt-image2",
+        "html-anything-magazine-poster",
+        "fantasy-qiqiguaiguai",
+        "ink-wash-poster",
+        "wangnov-gpt-image-2"
+      ],
+      "ranks": {
+        "brandkit": 1,
+        "codex-ppt": 2,
+        "codex-imagegen": 3,
+        "gc-minimal-zine-poster": 4,
+        "garden-gpt-image-2": 5,
+        "wuyoscar-gpt-image2": 6,
+        "html-anything-magazine-poster": 7,
+        "fantasy-qiqiguaiguai": 8,
+        "ink-wash-poster": 9,
+        "wangnov-gpt-image-2": 10,
+        "photo-riso-poster": 11,
+        "gpt-image2-ecommerce": 12,
+        "cvpr-poster": 13,
+        "dshark3y-gpt-image-2": 14,
+        "oso95-scroll-world": 15,
+        "engineering-figure-agent": 16,
+        "openakita-poster-maker": 17
+      },
+      "scores": {
+        "brandkit": 94.1,
+        "codex-ppt": 93.7,
+        "codex-imagegen": 93.4,
+        "gc-minimal-zine-poster": 92.4,
+        "garden-gpt-image-2": 90.5,
+        "wuyoscar-gpt-image2": 87.8,
+        "html-anything-magazine-poster": 87.2,
+        "fantasy-qiqiguaiguai": 82.6,
+        "ink-wash-poster": 79.8,
+        "wangnov-gpt-image-2": 79.7,
+        "photo-riso-poster": 78.2,
+        "gpt-image2-ecommerce": 78.1,
+        "cvpr-poster": 75.9,
+        "dshark3y-gpt-image-2": 74.3,
+        "oso95-scroll-world": 72.6,
+        "engineering-figure-agent": 71.1,
+        "openakita-poster-maker": 69.4
+      }
     }
   ]
 }
