@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T07:29:27.414000Z",
-  "ranking_date": "2026-10-09",
+  "updated_at": "2026-10-10T07:17:04.590201Z",
+  "ranking_date": "2026-10-10",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4979,
@@ -79,10 +79,10 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 93926,
-        "forks": 6378,
+        "stars": 94204,
+        "forks": 6411,
         "open_issues": 78,
-        "pushed_at": "2026-10-08T20:35:00Z",
+        "pushed_at": "2026-10-09T21:58:20Z",
         "license": "MIT",
         "archived": false
       },
@@ -109,7 +109,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "codex-ppt",
@@ -175,10 +175,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 6549,
-        "forks": 314,
+        "stars": 6637,
+        "forks": 315,
         "open_issues": 1,
-        "pushed_at": "2026-10-02T13:41:19Z",
+        "pushed_at": "2026-10-10T02:01:19Z",
         "license": "MIT",
         "archived": false
       },
@@ -205,7 +205,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "codex-imagegen",
@@ -266,10 +266,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 128290,
-        "forks": 20126,
-        "open_issues": 21674,
-        "pushed_at": "2026-10-09T05:13:10Z",
+        "stars": 128454,
+        "forks": 20157,
+        "open_issues": 21971,
+        "pushed_at": "2026-10-10T04:33:47Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -296,7 +296,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -350,7 +350,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7284,
+        "stars": 7292,
         "forks": 321,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
@@ -363,7 +363,7 @@
         "evidence_quality": 78,
         "docs_examples": 94
       },
-      "score": 92.3,
+      "score": 92.2,
       "confidence": 78,
       "score_breakdown": {
         "design_fit": 98,
@@ -380,7 +380,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "garden-gpt-image-2",
@@ -437,7 +437,7 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 12779,
+        "stars": 12798,
         "forks": 1534,
         "open_issues": 17,
         "pushed_at": "2026-07-12T14:36:31Z",
@@ -456,7 +456,7 @@
         "design_fit": 94,
         "codex_fit": 96,
         "public_feedback": 89,
-        "maintenance": 73,
+        "maintenance": 72,
         "docs_examples": 95,
         "adoption_proxy": 95
       },
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -515,7 +515,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 5683,
+        "stars": 5701,
         "forks": 472,
         "open_issues": 1,
         "pushed_at": "2026-09-30T11:54:50Z",
@@ -534,7 +534,7 @@
         "design_fit": 88,
         "codex_fit": 88,
         "public_feedback": 75,
-        "maintenance": 100,
+        "maintenance": 99,
         "docs_examples": 94,
         "adoption_proxy": 87
       },
@@ -545,7 +545,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -599,8 +599,8 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 9044,
-        "forks": 874,
+        "stars": 9058,
+        "forks": 875,
         "open_issues": 69,
         "pushed_at": "2026-09-15T03:36:24Z",
         "license": "Apache-2.0",
@@ -618,7 +618,7 @@
         "design_fit": 93,
         "codex_fit": 76,
         "public_feedback": 83,
-        "maintenance": 93,
+        "maintenance": 92,
         "docs_examples": 97,
         "adoption_proxy": 86
       },
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -690,7 +690,7 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 82.5,
+      "score": 82.4,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "ink-wash-poster",
@@ -831,7 +831,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 61,
+        "stars": 62,
         "forks": 6,
         "open_issues": 0,
         "pushed_at": "2026-07-30T07:46:17Z",
@@ -861,7 +861,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-10-09"
+      "last_top10_at": "2026-10-10"
     },
     {
       "id": "photo-riso-poster",
@@ -921,7 +921,7 @@
         "evidence_quality": 34,
         "docs_examples": 80
       },
-      "score": 78.1,
+      "score": 78.0,
       "confidence": 42,
       "score_breakdown": {
         "design_fit": 91,
@@ -985,7 +985,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 409,
+        "stars": 410,
         "forks": 53,
         "open_issues": 1,
         "pushed_at": "2026-09-17T09:05:23Z",
@@ -998,7 +998,7 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 78.0,
+      "score": 77.9,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
@@ -1081,7 +1081,7 @@
         "design_fit": 90,
         "codex_fit": 94,
         "public_feedback": 39,
-        "maintenance": 62,
+        "maintenance": 61,
         "docs_examples": 82,
         "adoption_proxy": 35
       },
@@ -1215,8 +1215,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 9770,
-        "forks": 1086,
+        "stars": 9894,
+        "forks": 1098,
         "open_issues": 8,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1291,7 +1291,7 @@
       "metric_scope": "single-project",
       "scope_factor": 0.8,
       "metrics": {
-        "stars": 305,
+        "stars": 307,
         "forks": 15,
         "open_issues": 0,
         "pushed_at": "2026-05-25T05:27:52Z",
@@ -1368,7 +1368,7 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 2002,
+        "stars": 1999,
         "forks": 284,
         "open_issues": 46,
         "pushed_at": "2026-09-24T03:27:36Z",
@@ -1381,13 +1381,13 @@
         "evidence_quality": 66,
         "docs_examples": 78
       },
-      "score": 69.2,
+      "score": 69.1,
       "confidence": 62,
       "score_breakdown": {
         "design_fit": 72,
         "codex_fit": 48,
         "public_feedback": 67,
-        "maintenance": 97,
+        "maintenance": 96,
         "docs_examples": 78,
         "adoption_proxy": 67
       },
