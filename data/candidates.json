@@ -63,10 +63,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 5157,
-        "forks": 214,
-        "open_issues": 2,
-        "pushed_at": "2026-08-09T10:28:56Z",
+        "stars": 7544,
+        "forks": 337,
+        "open_issues": 0,
+        "pushed_at": "2026-08-13T15:12:25Z",
         "license": "MIT",
         "archived": false
       },
@@ -134,10 +134,10 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 74761,
-        "forks": 5122,
-        "open_issues": 53,
-        "pushed_at": "2026-07-23T16:01:24Z",
+        "stars": 117205,
+        "forks": 7841,
+        "open_issues": 10,
+        "pushed_at": "2026-11-08T21:51:50Z",
         "license": "MIT",
         "archived": false
       },
@@ -203,10 +203,10 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 10201,
-        "forks": 1346,
-        "open_issues": 14,
-        "pushed_at": "2026-07-12T14:36:31Z",
+        "stars": 15334,
+        "forks": 1741,
+        "open_issues": 21,
+        "pushed_at": "2026-11-14T15:18:55Z",
         "license": "MIT",
         "archived": false
       },
@@ -276,10 +276,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 105057,
-        "forks": 15898,
-        "open_issues": 12115,
-        "pushed_at": "2026-08-10T06:49:10Z",
+        "stars": 135602,
+        "forks": 21501,
+        "open_issues": 27633,
+        "pushed_at": "2026-11-17T08:09:26Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -354,10 +354,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 4699,
-        "forks": 234,
-        "open_issues": 2,
-        "pushed_at": "2026-07-30T15:13:45Z",
+        "stars": 7967,
+        "forks": 378,
+        "open_issues": 4,
+        "pushed_at": "2026-11-16T08:23:13Z",
         "license": "MIT",
         "archived": false
       },
@@ -420,10 +420,10 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 8212,
-        "forks": 804,
-        "open_issues": 59,
-        "pushed_at": "2026-07-28T09:50:53Z",
+        "stars": 10106,
+        "forks": 982,
+        "open_issues": 48,
+        "pushed_at": "2026-11-17T09:14:50Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -480,10 +480,10 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 4258,
-        "forks": 362,
-        "open_issues": 3,
-        "pushed_at": "2026-07-20T15:43:17Z",
+        "stars": 6120,
+        "forks": 493,
+        "open_issues": 4,
+        "pushed_at": "2026-11-08T22:34:08Z",
         "license": "MIT",
         "archived": false
       },
@@ -540,10 +540,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 47,
-        "forks": 4,
+        "stars": 128,
+        "forks": 12,
         "open_issues": 0,
-        "pushed_at": "2026-08-04T19:54:50Z",
+        "pushed_at": "2026-09-05T21:33:18Z",
         "license": "MIT",
         "archived": false
       },
@@ -599,7 +599,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 46,
+        "stars": 56,
         "forks": 2,
         "open_issues": 0,
         "pushed_at": "2026-05-16T09:04:27Z",
@@ -658,8 +658,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 27,
-        "forks": 4,
+        "stars": 67,
+        "forks": 6,
         "open_issues": 0,
         "pushed_at": "2026-07-30T07:46:17Z",
         "license": "AGPL-3.0",
@@ -717,8 +717,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 17,
-        "forks": 0,
+        "stars": 61,
+        "forks": 2,
         "open_issues": 0,
         "pushed_at": "2026-08-04T02:06:40Z",
         "license": "MIT",
@@ -776,10 +776,10 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.75,
       "metrics": {
-        "stars": 110,
-        "forks": 12,
-        "open_issues": 2,
-        "pushed_at": "2026-07-26T12:16:40Z",
+        "stars": 148,
+        "forks": 15,
+        "open_issues": 0,
+        "pushed_at": "2026-11-15T10:11:04Z",
         "license": "MIT",
         "archived": false
       },
@@ -835,10 +835,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 17,
+        "stars": 19,
         "forks": 11,
         "open_issues": 3,
-        "pushed_at": "2026-04-22T18:54:07Z",
+        "pushed_at": "2026-09-11T17:59:04Z",
         "license": "Unknown",
         "archived": false
       },
@@ -894,10 +894,10 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 293,
-        "forks": 38,
-        "open_issues": 0,
-        "pushed_at": "2026-04-27T12:47:46Z",
+        "stars": 451,
+        "forks": 60,
+        "open_issues": 1,
+        "pushed_at": "2026-09-17T09:05:23Z",
         "license": "MIT",
         "archived": false
       },
@@ -953,8 +953,8 @@
       "metric_scope": "single-project",
       "scope_factor": 0.8,
       "metrics": {
-        "stars": 287,
-        "forks": 15,
+        "stars": 310,
+        "forks": 14,
         "open_issues": 0,
         "pushed_at": "2026-05-25T05:27:52Z",
         "license": "MIT",
@@ -1012,10 +1012,10 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 1951,
-        "forks": 268,
-        "open_issues": 40,
-        "pushed_at": "2026-08-06T08:17:07Z",
+        "stars": 2016,
+        "forks": 291,
+        "open_issues": 54,
+        "pushed_at": "2026-09-24T03:27:36Z",
         "license": "AGPL-3.0",
         "archived": false
       },
@@ -1070,15 +1070,73 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 7872,
-        "forks": 896,
-        "open_issues": 9,
+        "stars": 11034,
+        "forks": 1203,
+        "open_issues": 11,
         "pushed_at": "2026-07-29T04:44:56Z",
-        "license": "MIT"
+        "license": "MIT",
+        "archived": false
       },
       "manual": {
         "design_fit": 82,
         "codex_fit": 76,
+        "evidence_quality": 30,
+        "docs_examples": 55
+      }
+    },
+    {
+      "id": "nexu-io-openmotion",
+      "name": "Openmotion",
+      "repo": "nexu-io/openmotion",
+      "skill_path": "SKILL.md / skills directory",
+      "download_url": "https://github.com/nexu-io/openmotion",
+      "focus": "自动发现：品牌视觉",
+      "style": [
+        "品牌",
+        "视觉识别",
+        "商业设计"
+      ],
+      "designer": "需要先人工复核的新技能探索者",
+      "summary": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "scenarios": [
+        "新技能试用",
+        "视觉方向探索"
+      ],
+      "tips": [
+        "安装前阅读完整 SKILL.md",
+        "先用低风险样例验证输出",
+        "检查许可证与外部 API 依赖"
+      ],
+      "cases": [
+        {
+          "label": "GitHub 仓库",
+          "url": "https://github.com/nexu-io/openmotion"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "discovery",
+          "label": "自动发现，待复核",
+          "summary": "项目由每日检索找到；Stars/Forks 仅作采用度代理，尚无独立用户反馈结论。",
+          "url": "https://github.com/nexu-io/openmotion",
+          "strength": 1
+        }
+      ],
+      "compatibility": "发现到 SKILL.md 结构；Codex 桌面端兼容性待人工验证",
+      "metric_scope": "auto-discovered",
+      "scope_factor": 0.8,
+      "first_seen": "2026-11-17",
+      "auto_discovered": true,
+      "metrics": {
+        "stars": 10106,
+        "forks": 982,
+        "open_issues": 48,
+        "pushed_at": "2026-11-17T09:14:50Z",
+        "license": "Apache-2.0"
+      },
+      "manual": {
+        "design_fit": 82,
+        "codex_fit": 90,
         "evidence_quality": 30,
         "docs_examples": 55
       }
