@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T08:40:27.643028Z",
-  "ranking_date": "2026-11-20",
+  "updated_at": "2026-11-21T08:21:33.631298Z",
+  "ranking_date": "2026-11-21",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4977,
@@ -77,8 +77,8 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 15524,
-        "forks": 1759,
+        "stars": 15575,
+        "forks": 1762,
         "open_issues": 21,
         "pushed_at": "2026-11-19T12:10:48Z",
         "license": "MIT",
@@ -107,96 +107,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
-    },
-    {
-      "id": "brandkit",
-      "name": "Brandkit",
-      "repo": "Leonxlnx/taste-skill",
-      "skill_path": "skills/brandkit/SKILL.md",
-      "download_url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit",
-      "focus": "Brand identity system boards",
-      "style": [
-        "premium minimal",
-        "cinematic",
-        "luxury",
-        "dark tech",
-        "cultural identity"
-      ],
-      "designer": "Brand designers, creative directors, and independent studios",
-      "summary": "Creates brand-guideline boards, logo directions, palette and type systems, packaging, and identity applications as one visual world.",
-      "scenarios": [
-        "Brand pitches",
-        "Logo direction studies",
-        "Identity boards",
-        "Concept launches"
-      ],
-      "tips": [
-        "Define the brand tension and symbolic idea first",
-        "Explore one logo logic per round",
-        "Test the system across physical and digital applications"
-      ],
-      "cases": [
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/brandkit/SKILL.md"
-        },
-        {
-          "label": "View examples and documentation",
-          "url": "https://github.com/Leonxlnx/taste-skill#image-generation-skills"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "review",
-          "label": "Public evidence",
-          "summary": "A third-party production-readiness review scores the host project well for reliability and standards while flagging privacy documentation; repository adoption covers the whole suite.",
-          "url": "https://legit.show/s/gh-leonxlnx-taste-skill",
-          "strength": 4
-        },
-        {
-          "type": "adoption",
-          "label": "Public evidence",
-          "summary": "Supplementary source; open the original link to review its full context.",
-          "url": "https://github.com/Leonxlnx/taste-skill",
-          "strength": 3
-        }
-      ],
-      "compatibility": "Portable SKILL.md; works with Codex image generation",
-      "metric_scope": "multi-skill",
-      "scope_factor": 0.55,
-      "metrics": {
-        "stars": 119064,
-        "forks": 7967,
-        "open_issues": 14,
-        "pushed_at": "2026-11-08T21:51:50Z",
-        "license": "MIT",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 96,
-        "codex_fit": 91,
-        "evidence_quality": 86,
-        "docs_examples": 92
-      },
-      "score": 94.0,
-      "confidence": 82,
-      "score_breakdown": {
-        "design_fit": 96,
-        "codex_fit": 91,
-        "public_feedback": 92,
-        "maintenance": 98,
-        "docs_examples": 92,
-        "adoption_proxy": 100
-      },
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "first_seen": "2026-08-10",
-      "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "codex-ppt",
@@ -262,9 +173,9 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 8056,
-        "forks": 386,
-        "open_issues": 4,
+        "stars": 8076,
+        "forks": 387,
+        "open_issues": 3,
         "pushed_at": "2026-11-16T08:23:13Z",
         "license": "MIT",
         "archived": false
@@ -285,14 +196,103 @@
         "docs_examples": 98,
         "adoption_proxy": 91
       },
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 3,
-      "rank_delta": 0,
+      "rank_delta": 1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
+    },
+    {
+      "id": "brandkit",
+      "name": "Brandkit",
+      "repo": "Leonxlnx/taste-skill",
+      "skill_path": "skills/brandkit/SKILL.md",
+      "download_url": "https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit",
+      "focus": "Brand identity system boards",
+      "style": [
+        "premium minimal",
+        "cinematic",
+        "luxury",
+        "dark tech",
+        "cultural identity"
+      ],
+      "designer": "Brand designers, creative directors, and independent studios",
+      "summary": "Creates brand-guideline boards, logo directions, palette and type systems, packaging, and identity applications as one visual world.",
+      "scenarios": [
+        "Brand pitches",
+        "Logo direction studies",
+        "Identity boards",
+        "Concept launches"
+      ],
+      "tips": [
+        "Define the brand tension and symbolic idea first",
+        "Explore one logo logic per round",
+        "Test the system across physical and digital applications"
+      ],
+      "cases": [
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/brandkit/SKILL.md"
+        },
+        {
+          "label": "View examples and documentation",
+          "url": "https://github.com/Leonxlnx/taste-skill#image-generation-skills"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "review",
+          "label": "Public evidence",
+          "summary": "A third-party production-readiness review scores the host project well for reliability and standards while flagging privacy documentation; repository adoption covers the whole suite.",
+          "url": "https://legit.show/s/gh-leonxlnx-taste-skill",
+          "strength": 4
+        },
+        {
+          "type": "adoption",
+          "label": "Public evidence",
+          "summary": "Supplementary source; open the original link to review its full context.",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "strength": 3
+        }
+      ],
+      "compatibility": "Portable SKILL.md; works with Codex image generation",
+      "metric_scope": "multi-skill",
+      "scope_factor": 0.55,
+      "metrics": {
+        "stars": 119468,
+        "forks": 7990,
+        "open_issues": 15,
+        "pushed_at": "2026-11-08T21:51:50Z",
+        "license": "MIT",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 96,
+        "codex_fit": 91,
+        "evidence_quality": 86,
+        "docs_examples": 92
+      },
+      "score": 93.9,
+      "confidence": 82,
+      "score_breakdown": {
+        "design_fit": 96,
+        "codex_fit": 91,
+        "public_feedback": 92,
+        "maintenance": 98,
+        "docs_examples": 92,
+        "adoption_proxy": 100
+      },
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_delta": -1,
+      "new_entry": false,
+      "new_top10": false,
+      "first_seen": "2026-08-10",
+      "ever_top10": true,
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "codex-imagegen",
@@ -353,10 +353,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 135943,
-        "forks": 21558,
-        "open_issues": 28026,
-        "pushed_at": "2026-11-20T07:16:09Z",
+        "stars": 136017,
+        "forks": 21572,
+        "open_issues": 28115,
+        "pushed_at": "2026-11-21T05:57:52Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -383,7 +383,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -437,7 +437,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7545,
+        "stars": 7548,
         "forks": 336,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
@@ -450,7 +450,7 @@
         "evidence_quality": 78,
         "docs_examples": 94
       },
-      "score": 90.6,
+      "score": 90.5,
       "confidence": 78,
       "score_breakdown": {
         "design_fit": 98,
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -521,10 +521,10 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 13374,
-        "forks": 1309,
-        "open_issues": 75,
-        "pushed_at": "2026-11-20T08:38:15Z",
+        "stars": 14255,
+        "forks": 1407,
+        "open_issues": 102,
+        "pushed_at": "2026-11-21T08:20:03Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -534,7 +534,7 @@
         "evidence_quality": 80,
         "docs_examples": 97
       },
-      "score": 88.5,
+      "score": 88.6,
       "confidence": 79,
       "score_breakdown": {
         "design_fit": 93,
@@ -542,7 +542,7 @@
         "public_feedback": 85,
         "maintenance": 100,
         "docs_examples": 97,
-        "adoption_proxy": 90
+        "adoption_proxy": 91
       },
       "rank": 6,
       "previous_rank": 6,
@@ -551,7 +551,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -599,7 +599,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 6151,
+        "stars": 6168,
         "forks": 494,
         "open_issues": 4,
         "pushed_at": "2026-11-08T22:34:08Z",
@@ -612,7 +612,7 @@
         "evidence_quality": 65,
         "docs_examples": 94
       },
-      "score": 87.6,
+      "score": 87.5,
       "confidence": 65,
       "score_breakdown": {
         "design_fit": 88,
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -677,7 +677,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 129,
+        "stars": 130,
         "forks": 12,
         "open_issues": 0,
         "pushed_at": "2026-09-05T21:33:18Z",
@@ -690,7 +690,7 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 80.7,
+      "score": 80.6,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
@@ -707,7 +707,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -784,7 +784,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "nexu-io-openmotion",
@@ -830,10 +830,10 @@
       "first_seen": "2026-11-17",
       "auto_discovered": true,
       "metrics": {
-        "stars": 13374,
-        "forks": 1309,
-        "open_issues": 75,
-        "pushed_at": "2026-11-20T08:38:15Z",
+        "stars": 14255,
+        "forks": 1407,
+        "open_issues": 102,
+        "pushed_at": "2026-11-21T08:20:03Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -843,7 +843,7 @@
         "evidence_quality": 30,
         "docs_examples": 55
       },
-      "score": 79.6,
+      "score": 79.7,
       "confidence": 34,
       "score_breakdown": {
         "design_fit": 82,
@@ -859,7 +859,7 @@
       "new_entry": false,
       "new_top10": false,
       "ever_top10": true,
-      "last_top10_at": "2026-11-20"
+      "last_top10_at": "2026-11-21"
     },
     {
       "id": "ink-wash-poster",
@@ -919,13 +919,13 @@
         "evidence_quality": 42,
         "docs_examples": 85
       },
-      "score": 78.2,
+      "score": 78.1,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 41,
-        "maintenance": 68,
+        "maintenance": 67,
         "docs_examples": 85,
         "adoption_proxy": 40
       },
@@ -996,13 +996,13 @@
         "evidence_quality": 34,
         "docs_examples": 80
       },
-      "score": 76.6,
+      "score": 76.5,
       "confidence": 42,
       "score_breakdown": {
         "design_fit": 91,
         "codex_fit": 96,
         "public_feedback": 35,
-        "maintenance": 69,
+        "maintenance": 68,
         "docs_examples": 80,
         "adoption_proxy": 36
       },
@@ -1060,7 +1060,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 453,
+        "stars": 454,
         "forks": 60,
         "open_issues": 1,
         "pushed_at": "2026-09-17T09:05:23Z",
@@ -1073,7 +1073,7 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 76.0,
+      "score": 75.9,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
@@ -1150,7 +1150,7 @@
         "evidence_quality": 43,
         "docs_examples": 82
       },
-      "score": 74.8,
+      "score": 74.7,
       "confidence": 48,
       "score_breakdown": {
         "design_fit": 90,
@@ -1290,7 +1290,7 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 11082,
+        "stars": 11091,
         "forks": 1203,
         "open_issues": 11,
         "pushed_at": "2026-07-29T04:44:56Z",
@@ -1303,7 +1303,7 @@
         "evidence_quality": 30,
         "docs_examples": 55
       },
-      "score": 71.1,
+      "score": 71.0,
       "confidence": 34,
       "score_breakdown": {
         "design_fit": 82,
@@ -1443,8 +1443,8 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 2016,
-        "forks": 289,
+        "stars": 2017,
+        "forks": 287,
         "open_issues": 54,
         "pushed_at": "2026-09-24T03:27:36Z",
         "license": "AGPL-3.0",
