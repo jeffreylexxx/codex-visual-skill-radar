@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-22T08:12:05.800416Z",
-  "ranking_date": "2026-11-22",
+  "updated_at": "2026-11-23T09:13:41.976596Z",
+  "ranking_date": "2026-11-23",
   "source_status": "github-api",
   "api_errors": [],
   "rate_limit_remaining": 4977,
@@ -77,9 +77,9 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.65,
       "metrics": {
-        "stars": 15627,
-        "forks": 1771,
-        "open_issues": 22,
+        "stars": 15679,
+        "forks": 1775,
+        "open_issues": 23,
         "pushed_at": "2026-11-19T12:10:48Z",
         "license": "MIT",
         "archived": false
@@ -107,7 +107,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "brandkit",
@@ -166,10 +166,10 @@
       "metric_scope": "multi-skill",
       "scope_factor": 0.55,
       "metrics": {
-        "stars": 119843,
-        "forks": 8030,
-        "open_issues": 16,
-        "pushed_at": "2026-11-22T07:44:55Z",
+        "stars": 120348,
+        "forks": 8063,
+        "open_issues": 20,
+        "pushed_at": "2026-11-22T20:10:07Z",
         "license": "MIT",
         "archived": false
       },
@@ -190,13 +190,13 @@
         "adoption_proxy": 100
       },
       "rank": 2,
-      "previous_rank": 3,
-      "rank_delta": 1,
+      "previous_rank": 2,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "codex-ppt",
@@ -262,8 +262,8 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 8088,
-        "forks": 388,
+        "stars": 8112,
+        "forks": 390,
         "open_issues": 3,
         "pushed_at": "2026-11-16T08:23:13Z",
         "license": "MIT",
@@ -286,13 +286,13 @@
         "adoption_proxy": 91
       },
       "rank": 3,
-      "previous_rank": 2,
-      "rank_delta": -1,
+      "previous_rank": 3,
+      "rank_delta": 0,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "codex-imagegen",
@@ -353,10 +353,10 @@
       "metric_scope": "host-product",
       "scope_factor": 0.18,
       "metrics": {
-        "stars": 136089,
-        "forks": 21586,
-        "open_issues": 28208,
-        "pushed_at": "2026-11-22T07:03:13Z",
+        "stars": 136193,
+        "forks": 21607,
+        "open_issues": 28333,
+        "pushed_at": "2026-11-23T07:45:44Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -383,7 +383,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "gc-minimal-zine-poster",
@@ -437,7 +437,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 7546,
+        "stars": 7547,
         "forks": 336,
         "open_issues": 0,
         "pushed_at": "2026-08-13T15:12:25Z",
@@ -467,7 +467,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "html-anything-magazine-poster",
@@ -521,10 +521,10 @@
       "metric_scope": "multi-skill-app",
       "scope_factor": 0.45,
       "metrics": {
-        "stars": 14874,
-        "forks": 1455,
-        "open_issues": 106,
-        "pushed_at": "2026-11-22T07:45:18Z",
+        "stars": 15538,
+        "forks": 1542,
+        "open_issues": 114,
+        "pushed_at": "2026-11-23T09:12:59Z",
         "license": "Apache-2.0",
         "archived": false
       },
@@ -534,7 +534,7 @@
         "evidence_quality": 80,
         "docs_examples": 97
       },
-      "score": 88.6,
+      "score": 88.7,
       "confidence": 79,
       "score_breakdown": {
         "design_fit": 93,
@@ -542,7 +542,7 @@
         "public_feedback": 85,
         "maintenance": 100,
         "docs_examples": 97,
-        "adoption_proxy": 91
+        "adoption_proxy": 92
       },
       "rank": 6,
       "previous_rank": 6,
@@ -551,7 +551,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "wuyoscar-gpt-image2",
@@ -599,7 +599,7 @@
       "metric_scope": "single-suite",
       "scope_factor": 0.85,
       "metrics": {
-        "stars": 6175,
+        "stars": 6181,
         "forks": 495,
         "open_issues": 4,
         "pushed_at": "2026-11-08T22:34:08Z",
@@ -612,7 +612,7 @@
         "evidence_quality": 65,
         "docs_examples": 94
       },
-      "score": 87.5,
+      "score": 87.4,
       "confidence": 65,
       "score_breakdown": {
         "design_fit": 88,
@@ -629,7 +629,7 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "fantasy-qiqiguaiguai",
@@ -690,7 +690,7 @@
         "evidence_quality": 45,
         "docs_examples": 84
       },
-      "score": 80.6,
+      "score": 80.5,
       "confidence": 50,
       "score_breakdown": {
         "design_fit": 92,
@@ -707,7 +707,82 @@
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
+    },
+    {
+      "id": "nexu-io-openmotion",
+      "name": "Openmotion",
+      "repo": "nexu-io/openmotion",
+      "skill_path": "SKILL.md / skills directory",
+      "download_url": "https://github.com/nexu-io/openmotion",
+      "focus": "自动发现：品牌视觉",
+      "style": [
+        "品牌",
+        "视觉识别",
+        "商业设计"
+      ],
+      "designer": "需要先人工复核的新技能探索者",
+      "summary": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "scenarios": [
+        "新技能试用",
+        "视觉方向探索"
+      ],
+      "tips": [
+        "安装前阅读完整 SKILL.md",
+        "先用低风险样例验证输出",
+        "检查许可证与外部 API 依赖"
+      ],
+      "cases": [
+        {
+          "label": "GitHub 仓库",
+          "url": "https://github.com/nexu-io/openmotion"
+        }
+      ],
+      "feedback": [
+        {
+          "type": "discovery",
+          "label": "自动发现，待复核",
+          "summary": "项目由每日检索找到；Stars/Forks 仅作采用度代理，尚无独立用户反馈结论。",
+          "url": "https://github.com/nexu-io/openmotion",
+          "strength": 1
+        }
+      ],
+      "compatibility": "发现到 SKILL.md 结构；Codex 桌面端兼容性待人工验证",
+      "metric_scope": "auto-discovered",
+      "scope_factor": 0.8,
+      "first_seen": "2026-11-17",
+      "auto_discovered": true,
+      "metrics": {
+        "stars": 15538,
+        "forks": 1542,
+        "open_issues": 114,
+        "pushed_at": "2026-11-23T09:12:59Z",
+        "license": "Apache-2.0",
+        "archived": false
+      },
+      "manual": {
+        "design_fit": 82,
+        "codex_fit": 90,
+        "evidence_quality": 30,
+        "docs_examples": 55
+      },
+      "score": 79.8,
+      "confidence": 34,
+      "score_breakdown": {
+        "design_fit": 82,
+        "codex_fit": 90,
+        "public_feedback": 61,
+        "maintenance": 100,
+        "docs_examples": 55,
+        "adoption_proxy": 98
+      },
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_delta": 1,
+      "new_entry": false,
+      "new_top10": false,
+      "ever_top10": true,
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "wangnov-gpt-image-2",
@@ -756,8 +831,8 @@
       "metrics": {
         "stars": 150,
         "forks": 15,
-        "open_issues": 0,
-        "pushed_at": "2026-11-15T10:11:04Z",
+        "open_issues": 4,
+        "pushed_at": "2026-11-23T01:36:25Z",
         "license": "MIT",
         "archived": false
       },
@@ -777,89 +852,14 @@
         "docs_examples": 90,
         "adoption_proxy": 46
       },
-      "rank": 9,
+      "rank": 10,
       "previous_rank": 9,
-      "rank_delta": 0,
+      "rank_delta": -1,
       "new_entry": false,
       "new_top10": false,
       "first_seen": "2026-08-10",
       "ever_top10": true,
-      "last_top10_at": "2026-11-22"
-    },
-    {
-      "id": "nexu-io-openmotion",
-      "name": "Openmotion",
-      "repo": "nexu-io/openmotion",
-      "skill_path": "SKILL.md / skills directory",
-      "download_url": "https://github.com/nexu-io/openmotion",
-      "focus": "自动发现：品牌视觉",
-      "style": [
-        "品牌",
-        "视觉识别",
-        "商业设计"
-      ],
-      "designer": "需要先人工复核的新技能探索者",
-      "summary": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
-      "scenarios": [
-        "新技能试用",
-        "视觉方向探索"
-      ],
-      "tips": [
-        "安装前阅读完整 SKILL.md",
-        "先用低风险样例验证输出",
-        "检查许可证与外部 API 依赖"
-      ],
-      "cases": [
-        {
-          "label": "GitHub 仓库",
-          "url": "https://github.com/nexu-io/openmotion"
-        }
-      ],
-      "feedback": [
-        {
-          "type": "discovery",
-          "label": "自动发现，待复核",
-          "summary": "项目由每日检索找到；Stars/Forks 仅作采用度代理，尚无独立用户反馈结论。",
-          "url": "https://github.com/nexu-io/openmotion",
-          "strength": 1
-        }
-      ],
-      "compatibility": "发现到 SKILL.md 结构；Codex 桌面端兼容性待人工验证",
-      "metric_scope": "auto-discovered",
-      "scope_factor": 0.8,
-      "first_seen": "2026-11-17",
-      "auto_discovered": true,
-      "metrics": {
-        "stars": 14874,
-        "forks": 1455,
-        "open_issues": 106,
-        "pushed_at": "2026-11-22T07:45:18Z",
-        "license": "Apache-2.0",
-        "archived": false
-      },
-      "manual": {
-        "design_fit": 82,
-        "codex_fit": 90,
-        "evidence_quality": 30,
-        "docs_examples": 55
-      },
-      "score": 79.7,
-      "confidence": 34,
-      "score_breakdown": {
-        "design_fit": 82,
-        "codex_fit": 90,
-        "public_feedback": 61,
-        "maintenance": 100,
-        "docs_examples": 55,
-        "adoption_proxy": 98
-      },
-      "rank": 10,
-      "previous_rank": 10,
-      "rank_delta": 0,
-      "new_entry": false,
-      "new_top10": false,
-      "ever_top10": true,
-      "last_top10_at": "2026-11-22"
+      "last_top10_at": "2026-11-23"
     },
     {
       "id": "ink-wash-poster",
@@ -1060,7 +1060,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 454,
+        "stars": 455,
         "forks": 60,
         "open_issues": 1,
         "pushed_at": "2026-09-17T09:05:23Z",
@@ -1073,13 +1073,13 @@
         "evidence_quality": 48,
         "docs_examples": 82
       },
-      "score": 75.9,
+      "score": 75.8,
       "confidence": 52,
       "score_breakdown": {
         "design_fit": 78,
         "codex_fit": 86,
         "public_feedback": 54,
-        "maintenance": 80,
+        "maintenance": 79,
         "docs_examples": 82,
         "adoption_proxy": 62
       },
@@ -1214,7 +1214,7 @@
       "metric_scope": "single-skill",
       "scope_factor": 1.0,
       "metrics": {
-        "stars": 19,
+        "stars": 20,
         "forks": 11,
         "open_issues": 3,
         "pushed_at": "2026-09-11T17:59:04Z",
@@ -1227,13 +1227,13 @@
         "evidence_quality": 62,
         "docs_examples": 76
       },
-      "score": 72.1,
+      "score": 72.0,
       "confidence": 60,
       "score_breakdown": {
         "design_fit": 72,
         "codex_fit": 86,
         "public_feedback": 49,
-        "maintenance": 78,
+        "maintenance": 77,
         "docs_examples": 76,
         "adoption_proxy": 32
       },
@@ -1290,8 +1290,8 @@
       "first_seen": "2026-08-10",
       "auto_discovered": true,
       "metrics": {
-        "stars": 11097,
-        "forks": 1202,
+        "stars": 11107,
+        "forks": 1205,
         "open_issues": 11,
         "pushed_at": "2026-07-29T04:44:56Z",
         "license": "MIT",
@@ -1443,7 +1443,7 @@
       "metric_scope": "framework-plugin",
       "scope_factor": 0.35,
       "metrics": {
-        "stars": 2018,
+        "stars": 2019,
         "forks": 287,
         "open_issues": 54,
         "pushed_at": "2026-09-24T03:27:36Z",
